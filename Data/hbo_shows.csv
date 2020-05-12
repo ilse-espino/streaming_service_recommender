@@ -1,0 +1,201 @@
+show,year,rating,imdb,rotten_tomatoes
+0,Game of Thrones,2011,18+,9.3,89%
+1,The Wire,2002,18+,9.3,94%
+2,Chernobyl,2019,18+,9.4,96%
+3,The Sopranos,1999,18+,9.2,92%
+4,Band of Brothers,2001,18+,9.4,94%
+5,Westworld,2016,18+,8.7,83%
+6,True Detective,2014,18+,9.0,78%
+7,Silicon Valley,2014,18+,8.5,94%
+8,Big Little Lies,2017,18+,8.5,89%
+9,Curb Your Enthusiasm,2000,18+,8.7,92%
+10,Last Week Tonight with John Oliver,2014,18+,8.9,98%
+11,Rome,2005,18+,8.7,86%
+12,Boardwalk Empire,2010,18+,8.5,92%
+13,Six Feet Under,2001,18+,8.7,81%
+14,Barry,2018,18+,8.3,99%
+15,The Night Of,2016,18+,8.5,94%
+16,Succession,2018,18+,8.5,92%
+17,Veep,2012,18+,8.3,93%
+18,Deadwood,2004,18+,8.6,92%
+19,The Leftovers,2014,18+,8.3,91%
+20,True Blood,2008,18+,7.8,70%
+21,Oz,1997,18+,8.7,89%
+22,The Outsider,2020,18+,7.9,82%
+23,Euphoria,2019,18+,8.3,82%
+24,The Pacific,2010,18+,8.3,91%
+25,Sharp Objects,2018,18+,8.2,92%
+26,Watchmen,2019,18+,8.1,95%
+27,The Newsroom,2012,16+,8.6,59%
+28,Flight of the Conchords,2007,16+,8.5,94%
+29,Entourage,2004,16+,8.4,66%
+30,My Brilliant Friend,2018,18+,8.5,96%
+31,The Jinx: The Life and Deaths of Robert Durst,2015,16+,8.7,95%
+32,His Dark Materials,2019,16+,7.9,80%
+33,Generation Kill,2008,18+,8.5,86%
+34,Eastbound & Down,2009,18+,8.2,91%
+35,Years and Years,2019,18+,8.4,89%
+36,Ballers,2015,18+,7.6,72%
+37,The Deuce,2017,18+,8.1,93%
+38,John Adams,2008,16+,8.5,81%
+39,Girls,2012,18+,7.3,89%
+40,Sex and the City,1998,18+,7.1,71%
+41,Insecure,2016,18+,7.8,95%
+42,Angels in America,2003,18+,8.2,90%
+43,The Defiant Ones,2017,18+,8.5,100%
+44,The Plot Against America,2020,18+,7.2,87%
+45,Gentleman Jack,2019,18+,8.2,90%
+46,McMillion$,2020,16+,7.3,87%
+47,Looking,2014,18+,8.2,90%
+48,The Righteous Gemstones,2019,18+,8.1,75%
+49,Vice Principals,2016,18+,8.0,83%
+50,High Maintenance,2016,18+,8.0,98%
+51,Treme,2010,18+,8.2,96%
+52,In Treatment,2008,18+,8.3,88%
+53,Run,2020,18+,6.6,82%
+54,Bored to Death,2009,18+,7.9,79%
+55,Mildred Pierce,2011,18+,7.7,80%
+56,Mr. Show with Bob and David,1995,18+,8.3,100%
+57,The Larry Sanders Show,1992,18+,8.4,100%
+58,Show Me a Hero,2015,18+,8.1,96%
+59,Carnivàle,2003,18+,8.4,N/A
+60,Big Love,2006,18+,7.5,80%
+61,The Young Pope,2016,18+,8.4,N/A
+62,The New Pope,2020,18+,8.2,90%
+63,Sesame Street,1969,all,8.1,N/A
+64,Mrs. Fletcher,2019,18+,7.0,84%
+65,Avenue 5,2020,18+,6.4,67%
+66,Crashing,2017,18+,7.5,90%
+67,Togetherness,2015,18+,7.5,90%
+68,Vinyl,2016,18+,7.8,76%
+69,Hung,2009,18+,7.1,71%
+70,Our Boys,2019,18+,7.3,93%
+71,The Comeback,2005,18+,8.0,72%
+72,Atlanta's Missing and Murdered: The Lost Children,2020,18+,7.1,94%
+73,Enlightened,2011,18+,7.5,87%
+74,Olive Kitteridge,2014,18+,8.3,95%
+75,VICE,2013,18+,8.9,N/A
+76,The Brink,2015,18+,7.8,55%
+77,How to Make It in America,2010,18+,7.9,66%
+78,Shadows,2014,18+,8.8,N/A
+79,Beforeigners,2019,N/A,7.9,N/A
+80,Real Time with Bill Maher,2003,18+,7.4,N/A
+81,Life's Too Short,2011,16+,7.5,53%
+82,Spawn,1997,18+,8.1,N/A
+83,Golden Life,2015,18+,8.9,N/A
+84,The World Between Us,2019,N/A,9.2,N/A
+85,Tell Me You Love Me,2007,18+,7.3,62%
+86,Divorce,2016,16+,6.8,77%
+87,Family Tree,2013,18+,7.4,81%
+88,Los Espookys,2019,18+,7.5,100%
+89,Parade's End,2012,18+,7.6,N/A
+90,Fraggle Rock,1983,all,7.9,N/A
+91,From the Earth to the Moon,1998,7+,8.6,N/A
+92,Room 104,2017,18+,6.1,88%
+93,Hello Ladies,2013,18+,7.4,52%
+94,Gunpowder,2017,18+,6.6,72%
+95,Getting On,2013,18+,7.7,92%
+96,Animals.,2016,18+,7.2,84%
+97,Ja'mie: Private School Girl,2013,18+,7.3,64%
+98,The Case Against Adnan Syed,2019,16+,6.6,82%
+99,Miss Sherlock,2018,N/A,7.1,100%
+100,Elizabeth I,2005,18+,7.9,N/A
+101,We're Here,2020,18+,7.4,100%
+102,House of Saddam,2008,16+,7.5,60%
+103,Angry Boys,2011,18+,7.7,54%
+104,Sally4Ever,2018,18+,6.5,97%
+105,Jonah From Tonga,2014,N/A,7.1,80%
+106,A Black Lady Sketch Show,2019,18+,7.1,100%
+107,Mosaic,2018,18+,6.4,78%
+108,Catherine the Great,2019,18+,6.1,N/A
+109,John from Cincinnati,2007,N/A,7.1,50%
+110,Here and Now,2018,16+,6.8,24%
+111,High Maintenance,2012,18+,8.2,N/A
+112,Luck,2012,18+,7.5,N/A
+113,Wasteland,2016,N/A,8.2,N/A
+114,Hard Knocks,2001,16+,8.5,N/A
+115,Doll & Em,2014,N/A,6.5,62%
+116,Capadocia,2008,18+,8.1,N/A
+117,The No. 1 Ladies' Detective Agency,2009,7+,8.2,N/A
+118,Real Sex,1992,18+,6.7,N/A
+119,Empire Falls,2005,16+,7.3,N/A
+120,Little Britain USA,2008,18+,7.6,64%
+121,The Silent Valley,2016,18+,6.7,N/A
+122,The Electric Company,1971,all,8.1,N/A
+123,Sr. Ávila,2013,18+,8.3,N/A
+124,The Pact,2015,N/A,7.4,N/A
+125,The Bronze Garden,2017,18+,8.0,N/A
+126,Halfworlds,2016,N/A,6.2,N/A
+127,Folklore,2018,N/A,5.7,88%
+128,We Can Be Heroes: Finding The Australian of the Year,2005,18+,8.1,N/A
+129,Five Days,2007,18+,6.7,N/A
+130,Grisse,2018,N/A,5.9,N/A
+131,The Teenage Psychic,2017,N/A,7.6,N/A
+132,The Casual Vacancy,2015,N/A,6.6,56%
+133,Wyatt Cenac's Problem Areas,2018,18+,6.3,100%
+134,Fugitives,2011,18+,8.1,N/A
+135,Magnifica 70,2015,16+,7.8,N/A
+136,Tracey Ullman's Show,2016,18+,7.1,95%
+137,Hackerville,2018,16+,7.4,N/A
+138,Random Acts of Flyness,2018,18+,6.2,100%
+139,The Shop: Uninterrupted,2018,18+,6.6,N/A
+140,Arliss,1996,N/A,7.0,N/A
+141,Epitaphs,2004,18+,7.9,N/A
+142,2 Dope Queens,2018,16+,5.5,94%
+143,Mandrake,2005,N/A,7.9,N/A
+144,VICE News Tonight,2016,16+,8.3,N/A
+145,When Shall We Kiss?,2011,N/A,7.9,N/A
+146,Betty,2020,N/A,4.7,92%
+147,Real Sports with Bryant Gumbel,1995,7+,7.2,N/A
+148,Psi,2014,18+,8.1,N/A
+149,Todxs Nos,2020,N/A,5.4,N/A
+150,El Pionero,2019,16+,7.3,N/A
+151,Project Greenlight,2001,18+,2.5,88%
+152,One Night Stand,1989,18+,8.2,N/A
+153,Tsunami: The Aftermath,2006,18+,6.9,N/A
+154,Witness,2012,N/A,7.9,N/A
+155,Funny or Die Presents,2010,18+,5.6,100%
+156,The Electric Company,2009,N/A,7.3,N/A
+157,Food Lore,2019,N/A,7.2,N/A
+158,Crashbox,1999,7+,8.3,N/A
+159,Mamon,2015,N/A,7.4,N/A
+160,Camping,2018,18+,4.8,27%
+161,Sex On//,2015,18+,5.8,N/A
+162,Alice,2008,18+,7.6,N/A
+163,Santos Dumont,2019,16+,7.2,N/A
+164,Pinky Dinky Doo,2006,all,6.3,N/A
+165,Pod Save America,2018,18+,5.2,N/A
+166,Axios,2018,16+,5.7,N/A
+167,Classical Baby,2005,all,8.5,N/A
+168,KREMEN,2017,N/A,6.4,N/A
+169,Head Over Heels,2014,N/A,7.5,N/A
+170,The Secret Life of Couples,2017,N/A,6.0,N/A
+171,Grace,2018,16+,5.8,N/A
+172,24/7 College Football,2019,7+,7.6,N/A
+173,HBO Comedy Half-Hour,1994,7+,8.0,N/A
+174,Happily Ever After: Fairy Tales for Every Child,1995,all,6.4,N/A
+175,Dennis Miller Live,1994,N/A,6.1,N/A
+176,On Freddie Roach,2012,18+,7.3,N/A
+177,Being Serena,2018,N/A,5.7,89%
+178,Kindergarten,2001,all,N/A,N/A
+179,Chumel con Chumel Torres,2016,16+,7.5,N/A
+180,Gonzaga: The March to Madness,2016,7+,N/A,N/A
+181,Rome,2012,N/A,5.8,N/A
+182,Esme & Roy,2018,all,6.8,N/A
+183,Any Given Wednesday with Bill Simmons,2016,18+,6.3,50%
+184,The Alzheimer's Project,2009,7+,8.1,N/A
+185,A Little Curious,1998,N/A,N/A,N/A
+186,Down and Dirty with Jim Norton,2008,18+,7.2,N/A
+187,The Weight of the Nation,2012,N/A,7.1,N/A
+188,All Def Comedy,2017,18+,6.8,N/A
+189,Tourgasm,2006,N/A,5.0,N/A
+190,The Weight of the Nation for Kids,2012,N/A,N/A,N/A
+191,Sweet 15: Quinceañera,2016,N/A,6.4,N/A
+192,Destino Rusia,2018,N/A,8.1,N/A
+193,Single Long,2012,N/A,8.1,N/A
+194,SeNT,2017,N/A,5.6,N/A
+195,Saving My Tomorrow,2014,N/A,N/A,N/A
+196,El Negocio,2014,N/A,N/A,N/A
+197,HBO Latino Presents: A Tiny Audience,2019,N/A,N/A,N/A
+198,Russell Simmons Presents Brave New Voices,2009,N/A,6.2,N/A
+199,HBO Storybook Musicals,1987,all,N/A,N/A
