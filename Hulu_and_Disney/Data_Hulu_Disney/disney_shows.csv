@@ -1,0 +1,180 @@
+show,year,rating,imdb,rotten_tomatoes
+0,The Mandalorian,2019,7+,8.7,93%
+1,The Simpsons,1989,7+,8.7,85%
+2,Gravity Falls,2012,7+,8.9,100%
+3,Star Wars: The Clone Wars,2008,7+,8.2,93%
+4,Marvel's Agent Carter,2015,7+,7.9,86%
+5,Star Wars Rebels,2014,7+,8.0,100%
+6,DuckTales,2017,7+,8.2,100%
+7,X-Men,1992,7+,8.4,85%
+8,Marvel's Runaways,2017,16+,7.0,87%
+9,Spider-Man,1994,all,8.3,N/A
+10,One Strange Rock,2018,all,8.8,83%
+11,High School Musical: The Musical: The Series,2019,7+,7.3,79%
+12,Boy Meets World,1993,all,8.1,N/A
+13,The Imagineering Story,2019,7+,9.1,100%
+14,Phineas and Ferb,2007,all,7.9,N/A
+15,Star vs. the Forces of Evil,2015,7+,8.0,N/A
+16,DuckTales,1987,7+,8.1,N/A
+17,Lizzie McGuire,2001,all,6.6,100%
+18,Wizards of Waverly Place,2007,all,6.8,N/A
+19,Good Luck Charlie,2010,all,7.0,N/A
+20,X-Men: Evolution,2000,7+,7.9,N/A
+21,Kim Possible,2002,7+,7.2,N/A
+22,Recess,1997,7+,7.8,N/A
+23,Wolverine and the X-Men,2008,7+,8.0,67%
+24,The World According to Jeff Goldblum,2019,7+,7.9,82%
+25,That's So Raven,2003,all,6.5,N/A
+26,Gargoyles,1994,7+,8.1,N/A
+27,The Avengers: Earth's Mightiest Heroes,2010,7+,8.3,N/A
+28,The Suite Life of Zack & Cody,2005,all,6.5,N/A
+29,Lab Rats,2012,7+,6.6,N/A
+30,Chip 'n' Dale Rescue Rangers,1989,all,7.6,N/A
+31,Girl Meets World,2014,all,7.2,N/A
+32,Marvel's Ultimate Spider-Man,2012,7+,7.1,N/A
+33,Darkwing Duck,1991,7+,7.6,N/A
+34,America's Funniest Home Videos,1989,7+,6.2,N/A
+35,TRON: Uprising,2012,7+,8.2,N/A
+36,The Suite Life on Deck,2008,all,6.3,N/A
+37,K.C. Undercover,2015,all,6.1,N/A
+38,Doug,1991,all,7.4,N/A
+39,The Muppets,2015,7+,7.4,64%
+40,Brain Games,2011,7+,8.3,N/A
+41,Disney's Adventures of the Gummi Bears,1985,all,7.5,N/A
+42,Life Below Zero,2013,7+,8.0,N/A
+43,Disney Gallery / Star Wars: The Mandalorian,2020,7+,8.4,N/A
+44,TaleSpin,1990,all,7.6,N/A
+45,Gordon Ramsay: Uncharted,2019,N/A,8.0,83%
+46,Hannah Montana,2006,all,5.0,N/A
+47,Running Wild with Bear Grylls,2014,7+,7.7,N/A
+48,Rapunzel's Tangled Adventure,2017,all,7.6,N/A
+49,Mickey Mouse Clubhouse,2006,all,5.7,N/A
+0,Jessie,2011,all,5.9,N/A
+1,Kickin' It,2011,all,6.3,N/A
+2,Violetta,2012,all,5.2,N/A
+3,I am Luna,2016,N/A,6.8,N/A
+4,Marvel's Avengers Assemble,2013,7+,7.0,N/A
+5,The Incredible Dr. Pol,2011,7+,8.6,N/A
+6,Austin & Ally,2011,all,5.9,N/A
+7,Even Stevens,2000,all,7.6,N/A
+8,Star Wars Resistance,2018,7+,4.9,92%
+9,Marvel's Inhumans,2017,7+,5.0,11%
+10,Andi Mack,2017,all,7.2,N/A
+11,Sonny with a Chance,2009,all,6.1,N/A
+12,Raven's Home,2017,all,7.4,N/A
+13,So Weird,1999,7+,8.5,N/A
+14,Little Einsteins,2005,all,6.2,N/A
+15,The New Adventures of Winnie the Pooh,1988,all,7.6,N/A
+16,Dog Whisperer,2004,all,8.0,N/A
+17,Prop Culture,2020,7+,8.7,N/A
+18,Timon & Pumbaa,1995,all,7.1,N/A
+19,Milo Murphy's Law,2016,all,7.5,N/A
+20,Marvel's Spider-Man,2017,7+,6.1,N/A
+21,Diary of a Future President,2020,7+,5.4,100%
+22,Marvel's Guardians of the Galaxy,2015,7+,7.4,N/A
+23,Shake It Up,2010,all,4.8,N/A
+24,Lilo & Stitch: The Series,2003,all,6.8,N/A
+25,Encore!,2019,7+,7.4,68%
+26,Wicked Tuna,2012,16+,6.6,N/A
+27,Hercules,1998,all,6.6,N/A
+28,Big City Greens,2018,7+,6.7,N/A
+29,Phil of the Future,2004,all,7.0,N/A
+30,The Proud Family,2001,all,6.4,N/A
+31,Doc McStuffins,2012,all,6.7,N/A
+32,Amphibia,2019,7+,7.9,N/A
+33,Elena of Avalor,2016,all,6.4,N/A
+34,Spider-Man Unlimited,1999,7+,6.5,50%
+35,Iron Man: Armored Adventures,2009,7+,6.5,N/A
+36,Big Hero 6 The Series,2017,7+,7.1,N/A
+37,Goof Troop,1992,all,6.8,N/A
+38,PJ Masks,2015,all,5.7,N/A
+39,Dr. K's Exotic Animal ER,2014,7+,7.9,N/A
+40,Spider-Man and His Amazing Friends,1981,7+,7.2,N/A
+41,Sydney to the Max,2019,all,6.1,N/A
+42,Quack Pack,1996,7+,6.8,N/A
+43,The Incredible Hulk,1996,7+,6.8,N/A
+44,Best Friends Whenever,2015,all,5.5,N/A
+45,The Super Hero Squad Show,2009,7+,6.1,50%
+46,Puppy Dog Pals,2017,all,7.0,N/A
+47,Fantastic Four: World's Greatest Heroes,2006,7+,6.8,N/A
+48,I Didn't Do It,2014,all,6.0,N/A
+49,Out of the Box,1998,all,7.5,N/A
+0,One Day at Disney,2019,all,7.4,N/A
+1,The Emperor's New School,2006,all,6.6,N/A
+2,Imagination Movers,2008,all,7.0,N/A
+3,Coop & Cami Ask The World,2018,all,5.8,N/A
+4,Bonkers,1993,all,6.8,N/A
+5,Hostile Planet,2019,N/A,8.2,N/A
+6,The Lion Guard,2016,all,6.4,N/A
+7,"Dr. Oakley, Yukon Vet",2014,all,8.1,N/A
+8,Stuck in the Middle,2016,all,5.9,N/A
+9,Fantastic Four,1994,7+,6.5,N/A
+10,Silver Surfer,1998,7+,7.1,N/A
+11,My Friends Tigger & Pooh,2007,all,5.8,N/A
+12,Randy Cunningham: 9th Grade Ninja,2012,7+,6.6,N/A
+13,Handy Manny,2006,all,5.5,N/A
+14,Marvel’s Hulk and the Agents of S.M.A.S.H,2013,7+,6.1,N/A
+15,Vampirina,2017,all,6.8,N/A
+16,Primal Survivor,2016,N/A,8.3,N/A
+17,Jake and the Never Land Pirates,2011,all,5.6,N/A
+18,Crash & Bernstein,2012,all,4.8,N/A
+19,JONAS,2009,N/A,4.6,N/A
+20,Iron Man,1994,7+,6.7,N/A
+21,Lab Rats: Elite Force,2016,7+,6.5,N/A
+22,Evermoor,2014,all,6.1,N/A
+23,Mighty Ducks: The Animated Series,1996,7+,6.4,N/A
+24,Car S.O.S.,2013,N/A,8.1,N/A
+25,Lego Star Wars: Droid Tales,2015,7+,7.5,N/A
+26,Fish Hooks,2010,all,4.6,N/A
+27,Short Circuit,2020,all,N/A,N/A
+28,Mickey and the Roadster Racers,2017,all,6.2,N/A
+29,Pick of the Litter,2019,7+,8.3,N/A
+30,The Replacements,2006,7+,5.8,N/A
+31,Muppet Babies,2018,all,7.0,N/A
+32,Fancy Nancy,2018,all,5.2,N/A
+33,Pixar in Real Life,2019,all,6.5,N/A
+34,Kingdom of the White Wolf,2019,N/A,8.5,N/A
+35,Great Migrations,2010,all,8.1,N/A
+36,Sheriff Callie's Wild West,2013,all,6.4,N/A
+37,Legend of the Three Caballeros,2018,all,7.9,N/A
+38,Secrets of the Zoo,2018,N/A,N/A,N/A
+39,Marvel's Hero Project,2019,7+,6.1,92%
+40,Spin and Marty,1955,all,8.2,N/A
+41,Shop Class,2020,all,7.1,N/A
+42,The Lodge,2016,N/A,6.0,N/A
+43,The Book of Pooh,2001,N/A,6.3,N/A
+44,Year Million,2017,16+,7.5,N/A
+45,Bizaardvark,2016,all,3.5,N/A
+46,Origins: The Journey of Humankind,2017,N/A,6.7,N/A
+47,Be our Chef,2020,all,6.8,N/A
+48,Dog: Impossible,2019,N/A,8.2,N/A
+49,Spider-Woman,1979,all,5.7,N/A
+0,Kirby Buckets,2014,7+,4.6,N/A
+1,Henry Hugglemonster,2013,all,5.2,N/A
+2,The Avengers: United They Stand,1999,7+,5.5,N/A
+3,America's National Parks,2015,all,8.0,N/A
+4,LEGO Star Wars: All-Stars,2018,7+,6.6,N/A
+5,Fast Layne,2019,all,5.4,N/A
+6,Holiday Magic,2017,N/A,7.0,N/A
+7,Unlikely Animal Friends,2012,N/A,7.7,N/A
+8,Out There with Jack Randall,2019,N/A,6.9,N/A
+9,Disney Family Sundays,2019,N/A,6.0,N/A
+10,Teacher's Pet,2000,all,6.4,N/A
+11,Marvel Super Hero Adventures,2017,all,6.2,N/A
+12,Secrets of the Zoo: Tampa,2020,N/A,8.3,N/A
+13,Billy Dilley's Super-Duper Subterranean Summer,2017,7+,4.6,N/A
+14,Rocky Mountain Animal Rescue,2018,N/A,7.8,N/A
+15,Bug Juice: My Adventures at Camp,2018,N/A,7.2,N/A
+16,Buried Secrets of the Bible with Albert Lin,2019,N/A,5.1,N/A
+17,Prairie Dog Manor,2019,N/A,8.6,N/A
+18,Birth of Europe,2012,all,7.1,N/A
+19,Disney Junior Music Nursery Rhymes,2017,all,6.6,N/A
+20,Disney Insider,2012,N/A,N/A,N/A
+21,Lost Treasures of Egypt,2019,N/A,N/A,N/A
+22,Lost Treasures of the Maya,2019,N/A,N/A,N/A
+23,Tut's Treasures: Hidden Secrets,2018,N/A,N/A,N/A
+24,Awesome Animals,2013,N/A,N/A,N/A
+25,Paradise Islands,2017,N/A,N/A,N/A
+26,Wild Russia,2018,N/A,N/A,N/A
+27,United States of Animals,2016,N/A,N/A,N/A
+28,Love & Vets,2017,N/A,N/A,N/A

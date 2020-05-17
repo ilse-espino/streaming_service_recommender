@@ -51,7 +51,7 @@ def get_recommender_df(survey_df, df_all_shows):
     return user_recommender
 
 
-def get_streaming_recommendation(genres_recommender, user_survey):
+def get_streaming_recommendation(genres_recommender, user_survey, no=1):
     
     recommendations = []
     
@@ -63,17 +63,35 @@ def get_streaming_recommendation(genres_recommender, user_survey):
                          index=user_recommender.index, columns=user_recommender.index)
     
     similarities = list(distances_df['User'].sort_values()[1:].index)
-    distances = list(distances_df['User'].sort_values()[1:].values)
     
-    for i in range(3):
+    for i in range(no):
         recommendations.append(similarities[i])
     
-    print("Your closest match is " + recommendations[0] + f" with {int(100-distances[0]*100)}% genre similarity.")
-    print("--------------------------")
-    print("Your next matches are:")
-    print("2. " + recommendations[1] + f" with {int(100-distances[1]*100)}% genre similarity.")
-    print("3. " + recommendations[2] + f" with {int(100-distances[2]*100)}% genre similarity.")
-   
+    for j in range(len(recommendations)):
+        print(f"{j+1}. " + recommendations[j])
+    
     # We need to add a return value beacuse if not the streaming_recommendations returns None at the end, we will return
     # a blank string
     return ("")
+
+
+# genres_recommender, survey_df, df_all_shows
+
+def streaming_recommendations(genres_recommender, survey_df, df_all_shows):
+    
+    while True:
+        no_recommendations = input("How many recommendations would you like from 1 to 3?")
+        try:
+            no_recommendations = int(no_recommendations)
+            if no_recommendations < 4:
+                break;
+            else:
+                print ("The number entered is greater than 3. Please enter a number from 1 to 3.")
+        except ValueError:
+            print ("That is not a valid entry.")
+   
+    user_survey = get_recommender_df(survey_df, df_all_shows)
+            
+    print("\n")
+    print("Your recommendations in order from most similar to less are the following:")
+    print(get_streaming_recommendation(genres_recommender, user_survey, no=no_recommendations))

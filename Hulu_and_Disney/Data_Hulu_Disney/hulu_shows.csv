@@ -1,0 +1,1745 @@
+show,year,rating,imdb,rotten_tomatoes
+0,Rick and Morty,2013,18+,9.2,94%
+1,Fargo,2014,18+,8.9,96%
+2,Vikings,2013,18+,8.5,93%
+3,Brooklyn Nine-Nine,2013,16+,8.4,97%
+4,Attack on Titan,2013,16+,8.8,94%
+5,Fullmetal Alchemist: Brotherhood,2009,18+,9.1,100%
+6,Community,2009,7+,8.5,88%
+7,The Simpsons,1989,7+,8.7,85%
+8,Parks and Recreation,2009,16+,8.6,93%
+9,Lost,2004,16+,8.3,85%
+10,Modern Family,2009,16+,8.4,86%
+11,Prison Break,2005,16+,8.3,60%
+12,Firefly,2002,16+,9.0,85%
+13,Seinfeld,1989,7+,8.8,88%
+14,Twin Peaks,1990,18+,8.8,89%
+15,Killing Eve,2018,16+,8.3,91%
+16,One-Punch Man,2015,16+,8.8,100%
+17,It's Always Sunny in Philadelphia,2005,18+,8.8,96%
+18,The Good Place,2016,16+,8.2,97%
+19,How I Met Your Mother,2005,16+,8.3,83%
+20,South Park,1997,18+,8.7,81%
+21,Futurama,1999,16+,8.4,95%
+22,The Handmaid's Tale,2017,18+,8.5,88%
+23,Sons of Anarchy,2008,18+,8.6,87%
+24,Grey's Anatomy,2005,16+,7.6,83%
+25,Arrested Development,2003,16+,8.7,75%
+26,Gravity Falls,2012,7+,8.9,100%
+27,Archer,2009,18+,8.6,91%
+28,How to Get Away with Murder,2014,16+,8.1,88%
+29,This Is Us,2016,16+,8.7,92%
+30,What We Do in the Shadows,2019,18+,8.4,97%
+31,Pride and Prejudice,1995,all,8.9,88%
+32,Justified,2010,18+,8.6,97%
+33,The X-Files,1993,16+,8.6,75%
+34,Scrubs,2001,7+,8.3,83%
+35,Family Guy,1999,18+,8.1,71%
+36,Pretty Little Liars,2010,16+,7.4,81%
+37,My Hero Academia,2016,16+,8.5,100%
+38,Adventure Time,2010,7+,8.6,100%
+39,The Twilight Zone,1959,7+,9.0,82%
+40,24,2001,16+,8.3,86%
+41,Star Trek: The Next Generation,1987,7+,8.6,89%
+42,White Collar,2009,16+,8.2,96%
+43,Friday Night Lights,2006,7+,8.7,97%
+44,Legion,2017,16+,8.3,91%
+45,Mr. Bean,1990,all,8.5,100%
+46,Buffy the Vampire Slayer,1997,7+,8.2,82%
+47,Bob's Burgers,2011,16+,8.1,91%
+48,Elementary,2012,16+,7.9,95%
+49,30 Rock,2006,16+,8.2,85%
+0,Taboo,2017,16+,8.4,76%
+1,Atlanta,2016,18+,8.6,97%
+2,The Good Wife,2009,16+,8.3,94%
+3,The Shield,2002,18+,8.7,90%
+4,The Office,2001,16+,8.5,96%
+5,Black Books,2000,7+,8.5,100%
+6,Naruto Shippūden,2007,7+,8.6,N/A
+7,Death Note,2006,18+,9.0,N/A
+8,Burn Notice,2007,7+,7.9,88%
+9,Misfits,2009,18+,8.2,92%
+10,Veronica Mars,2004,16+,8.3,92%
+11,9-1-1,2018,16+,7.7,81%
+12,11.22.63,2016,18+,8.2,80%
+13,Frasier,1993,7+,8.0,94%
+14,Normal People,2020,N/A,8.8,83%
+15,Bones,2005,16+,7.8,90%
+16,American Horror Story,2011,18+,8.0,N/A
+17,Line of Duty,2012,18+,8.6,97%
+18,Star Trek,1966,7+,8.3,80%
+19,Steins;Gate,2011,16+,8.8,100%
+20,The Orville,2017,16+,8.0,65%
+21,Good Girls,2018,16+,7.9,87%
+22,Preacher,2016,18+,8.0,87%
+23,The Killing,2011,18+,8.2,69%
+24,The Good Doctor,2017,16+,8.2,N/A
+25,Desperate Housewives,2004,7+,7.4,72%
+26,Peep show,2003,18+,8.6,96%
+27,RuPaul's Drag Race,2009,16+,8.5,83%
+28,Battlestar Galactica,2004,16+,8.6,82%
+29,Superstore,2015,16+,7.8,92%
+30,Revenge,2011,16+,7.8,69%
+31,Lie to Me,2009,16+,8.0,78%
+32,Over the Garden Wall,2014,7+,8.8,88%
+33,Devs,2020,18+,7.8,81%
+34,Spaced,1999,18+,8.6,100%
+35,Blue Bloods,2010,16+,7.5,91%
+36,12 Monkeys,2015,16+,7.7,88%
+37,Tokyo Ghoul,2014,18+,7.9,100%
+38,One Piece,1999,7+,8.7,N/A
+39,Mushi-Shi,2005,16+,8.5,100%
+40,Star Trek: Deep Space Nine,1993,7+,7.9,90%
+41,The Rookie,2018,16+,8.1,68%
+42,Hunter x Hunter,2011,16+,8.9,N/A
+43,Naruto,2002,7+,8.3,N/A
+44,DAVE,2020,18+,8.4,62%
+45,Smallville,2001,7+,7.4,78%
+46,Dirk Gently's Holistic Detective Agency,2016,16+,8.3,85%
+47,Younger,2015,16+,7.8,99%
+48,Broad City,2014,18+,8.4,99%
+49,Workaholics,2011,18+,8.1,86%
+0,Dead Like Me,2003,16+,8.1,87%
+1,Law & Order: Special Victims Unit,1999,16+,8.0,N/A
+2,Food Wars! Shokugeki no Soma,2015,18+,8.3,N/A
+3,Nathan For You,2013,16+,8.8,97%
+4,Angel,1999,7+,7.9,88%
+5,Castle Rock,2018,18+,7.6,87%
+6,Mystery Science Theater 3000,1988,7+,8.5,80%
+7,Timeless,2016,7+,7.7,91%
+8,The Last Ship,2014,16+,7.5,83%
+9,You're the Worst,2014,18+,8.1,95%
+10,The Affair,2014,18+,7.9,86%
+11,Stargate SG-1,1997,7+,8.4,N/A
+12,Elfen Lied,2004,18+,8.0,100%
+13,Cowboy Bebop,1998,18+,8.9,N/A
+14,Fresh Off the Boat,2015,7+,7.8,94%
+15,Everybody Hates Chris,2005,7+,7.4,95%
+16,Raising Hope,2010,16+,8.0,96%
+17,The Terror,2018,18+,8.0,87%
+18,Boston Legal,2004,16+,8.4,86%
+19,Future Man,2017,18+,7.8,91%
+20,Star Trek: Voyager,1995,7+,7.8,77%
+21,Inside No. 9,2014,18+,8.5,100%
+22,The League,2009,18+,8.2,81%
+23,The Strain,2014,18+,7.3,79%
+24,The Venture Bros.,2004,18+,8.5,92%
+25,Samurai Champloo,2004,18+,8.5,88%
+26,Parenthood,2010,7+,8.2,88%
+27,Zoey's Extraordinary Playlist,2020,16+,8.1,74%
+28,My Name Is Earl,2005,16+,7.7,82%
+29,Mrs. America,2020,18+,7.5,96%
+30,Dollhouse,2009,16+,7.7,72%
+31,Little Fires Everywhere,2020,18+,7.7,77%
+32,Dragon Ball,1986,16+,8.5,N/A
+33,Marvel's Runaways,2017,16+,7.0,87%
+34,Please Like Me,2013,18+,8.5,100%
+35,The Act,2019,18+,8.0,89%
+36,Southland,2009,16+,8.4,87%
+37,Bleach,2004,18+,8.1,N/A
+38,Demon Slayer: Kimetsu no Yaiba,2019,18+,8.8,N/A
+39,Damages,2007,18+,8.1,91%
+40,Better Things,2016,7+,7.7,97%
+41,Looking for Alaska,2019,18+,8.1,92%
+42,Brockmire,2017,18+,8.1,98%
+43,Legend of the Seeker,2008,16+,7.6,42%
+44,Awkward.,2011,16+,7.5,78%
+45,Fear the Walking Dead,2015,18+,6.9,73%
+46,The Exorcist,2016,16+,8.1,89%
+47,Happy Endings,2011,16+,7.7,78%
+48,High Fidelity,2020,18+,7.6,85%
+49,American Dad!,2005,16+,7.3,N/A
+0,Haikyu!!,2014,16+,8.7,N/A
+1,Chicago P.D.,2014,16+,8.1,N/A
+2,The Bridge,2011,18+,8.6,N/A
+3,Lethal Weapon,2016,16+,7.9,89%
+4,Soul Eater,2008,16+,7.8,100%
+5,Better Off Ted,2009,7+,8.2,89%
+6,The Last Man on Earth,2015,16+,7.3,84%
+7,Sleepy Hollow,2013,16+,7.4,77%
+8,In the Flesh,2013,18+,8.0,97%
+9,Merlin,2008,7+,7.9,N/A
+10,The Gifted,2017,16+,7.4,79%
+11,Absolutely Fabulous,1992,16+,8.1,96%
+12,Chicago Fire,2012,16+,7.9,N/A
+13,Malcolm in the Middle,2000,7+,8.0,N/A
+14,Stargate Universe,2009,16+,7.6,70%
+15,Shadowhunters,2016,16+,6.6,76%
+16,Top of the Lake,2013,18+,7.5,82%
+17,Horace and Pete,2016,18+,8.5,96%
+18,The Mighty Boosh,2004,16+,8.3,100%
+19,Rizzoli & Isles,2010,16+,7.6,72%
+20,Rescue Me,2004,18+,8.3,89%
+21,Snowfall,2017,18+,8.0,81%
+22,Prime Suspect,1991,18+,8.4,100%
+23,Key & Peele,2012,18+,8.3,97%
+24,Deutschland,2015,18+,8.1,94%
+25,Stumptown,2019,16+,7.5,92%
+26,Empire,2015,16+,7.4,84%
+27,The Mindy Project,2012,16+,7.4,86%
+28,New Amsterdam,2018,16+,8.1,34%
+29,Nip/Tuck,2003,18+,7.6,75%
+30,The Librarians,2014,16+,7.3,89%
+31,Case Closed,1996,16+,8.4,N/A
+32,Blindspot,2015,16+,7.4,N/A
+33,Manifest,2018,16+,7.2,57%
+34,The Resident,2018,16+,7.6,N/A
+35,Quantum Leap,1989,7+,8.1,N/A
+36,Star Trek: Enterprise,2001,7+,7.5,50%
+37,Saturday Night Live,1975,16+,8.1,N/A
+38,Stargate Atlantis,2004,7+,8.1,N/A
+39,Fairy Tail,2009,16+,8.0,N/A
+40,The Middle,2009,7+,7.5,N/A
+41,Invader Zim,2001,7+,8.3,100%
+42,black-ish,2014,7+,7.1,91%
+43,Survivor,2000,7+,7.2,N/A
+44,Catch-22,2019,18+,7.8,84%
+45,Cheers,1982,7+,7.8,N/A
+46,Wilfred,2011,18+,7.8,83%
+47,Steven Universe,2013,7+,8.2,N/A
+48,Pokémon,1997,7+,7.5,N/A
+49,Hellsing Ultimate,2006,18+,8.3,80%
+0,Drake & Josh,2004,7+,7.7,N/A
+1,Ugly Betty,2006,7+,6.5,97%
+2,Marvel's Cloak & Dagger,2018,16+,6.7,87%
+3,M*A*S*H,1972,7+,8.4,N/A
+4,Wayward Pines,2015,16+,7.4,61%
+5,Nashville,2012,7+,7.7,90%
+6,The Unit,2006,16+,8.1,84%
+7,Mayans M.C.,2018,18+,7.5,86%
+8,Mr Inbetween,2018,18+,8.3,95%
+9,Home Movies,1999,7+,8.0,100%
+10,For Life,2020,16+,7.5,86%
+11,Sailor Moon,1992,16+,7.7,90%
+12,Letterkenny,2016,18+,8.7,N/A
+13,The Goldbergs,2013,7+,8.1,N/A
+14,MythBusters,2003,7+,8.3,N/A
+15,Don't Trust the B---- in Apartment 23,2012,16+,7.3,85%
+16,NYPD Blue,1993,18+,7.5,84%
+17,I Love Lucy,1951,all,8.4,N/A
+18,Ramy,2019,18+,8.0,97%
+19,Graceland,2013,16+,7.7,86%
+20,JoJo's Bizarre Adventure,2012,18+,8.4,N/A
+21,One Tree Hill,2003,16+,7.6,N/A
+22,Afro Samurai,2007,18+,7.7,100%
+23,CSI: Crime Scene Investigation,2000,16+,7.6,N/A
+24,Cougar Town,2009,7+,6.9,89%
+25,Bunheads,2012,16+,7.6,100%
+26,Regular Show,2010,7+,8.4,N/A
+27,Scream Queens,2015,16+,7.1,75%
+28,Terriers,2010,18+,8.4,92%
+29,Married... with Children,1987,7+,8.0,N/A
+30,Emergence,2019,16+,7.2,94%
+31,Motherland: Fort Salem,2020,16+,6.8,58%
+32,Genius,2017,7+,8.4,70%
+33,ERASED,2016,16+,8.5,N/A
+34,Last Man Standing,2011,16+,7.6,N/A
+35,The Looming Tower,2018,18+,8.0,88%
+36,The Promised Neverland,2019,18+,8.8,N/A
+37,UnREAL,2015,18+,7.8,82%
+38,The Hitchhiker's Guide to the Galaxy,1981,7+,8.0,67%
+39,The Wonder Years,1988,7+,8.3,N/A
+40,Witches of East End,2013,16+,7.6,65%
+41,Blackadder,1983,7+,8.1,N/A
+42,Pinky and the Brain,1995,all,7.8,75%
+43,Baskets,2016,18+,7.5,92%
+44,Will & Grace,1998,16+,7.2,N/A
+45,Harlots,2017,18+,7.7,98%
+46,Robot Chicken,2005,18+,7.7,N/A
+47,Roseanne,1988,7+,7.0,76%
+48,The Hot Zone,2019,16+,7.3,90%
+49,InuYasha,2000,16+,7.9,N/A
+0,The Golden Girls,1985,7+,7.9,N/A
+1,Good Behavior,2016,16+,8.1,78%
+2,A Million Little Things,2018,16+,7.9,53%
+3,The Outer Limits,1963,7+,8.2,91%
+4,Sword Art Online,2012,16+,7.6,N/A
+5,Man Seeking Woman,2015,18+,7.7,93%
+6,Rurouni Kenshin,1996,16+,8.5,N/A
+7,RuPaul's Drag Race All Stars,2012,16+,8.6,70%
+8,Salem,2014,18+,7.1,82%
+9,Descendants of the Sun,2016,16+,8.4,N/A
+10,Ancient Aliens,2010,7+,7.3,N/A
+11,Make It or Break It,2009,16+,7.5,79%
+12,Your Lie in April,2014,7+,8.6,N/A
+13,Wu-Tang: An American Saga,2019,18+,8.3,80%
+14,The Amazing World of Gumball,2011,7+,8.2,N/A
+15,Sliders,1995,7+,7.4,N/A
+16,ER,1994,16+,7.7,N/A
+17,Ally McBeal,1997,16+,6.8,61%
+18,Siren,2018,16+,7.0,N/A
+19,Mom,2013,16+,7.2,N/A
+20,Touch,2012,7+,7.4,68%
+21,The Detour,2016,7+,7.7,90%
+22,The Baker and the Beauty,2020,7+,7.2,86%
+23,My Mad Fat Diary,2013,16+,8.4,95%
+24,Sesame Street,1969,all,8.1,N/A
+25,PEN15,2019,18+,7.9,93%
+26,High School DxD,2012,18+,7.6,N/A
+27,Face Off,2011,7+,8.2,N/A
+28,Akame ga Kill!,2014,18+,7.9,N/A
+29,Parasyte -the maxim-,2014,18+,8.4,N/A
+30,Kaguya-sama: Love is War,2019,16+,8.1,N/A
+31,Legit,2013,18+,8.2,96%
+32,Hell's Kitchen,2005,16+,7.1,N/A
+33,Chicago Med,2015,16+,7.5,N/A
+34,Full House,1987,all,6.7,N/A
+35,Private Practice,2007,16+,6.6,51%
+36,Daria,1997,16+,8.0,N/A
+37,SIX,2017,18+,7.3,62%
+38,Roots,2016,16+,7.9,96%
+39,Shark Tank,2009,7+,7.6,N/A
+40,Digimon Adventure,1999,7+,7.3,N/A
+41,The Amazing Race,2001,7+,7.6,N/A
+42,War and Peace,2016,16+,8.2,N/A
+43,Alfred Hitchcock Presents,1955,16+,8.5,N/A
+44,Breeders,2020,18+,7.1,83%
+45,Ghost Adventures,2008,7+,7.5,N/A
+46,Tyrant,2014,18+,7.8,60%
+47,Star vs. the Forces of Evil,2015,7+,8.0,N/A
+48,Whitechapel,2009,7+,7.9,75%
+49,Ghost Whisperer,2005,7+,6.3,N/A
+0,Body of Proof,2011,16+,7.1,76%
+1,Casual,2015,16+,7.5,92%
+2,The Brady Bunch,1969,all,6.7,77%
+3,Chance,2016,16+,7.7,75%
+4,Rake,2010,16+,8.6,100%
+5,Roswell,1999,16+,7.5,N/A
+6,Psycho-Pass,2012,16+,8.2,N/A
+7,The Wrong Mans,2013,18+,7.8,95%
+8,Everything's Gonna Be Okay,2020,16+,7.0,94%
+9,Yu Yu Hakusho,1992,16+,8.4,100%
+10,Battlestar Galactica,1978,7+,7.2,33%
+11,Shameless,2004,18+,8.0,N/A
+12,Dexter's Laboratory,1996,all,7.9,N/A
+13,Underground,2016,18+,7.7,96%
+14,Pretty Little Liars: The Perfectionists,2019,16+,7.1,100%
+15,Boruto: Naruto Next Generations,2017,16+,7.1,N/A
+16,Shrill,2019,18+,7.4,87%
+17,Ben 10,2005,7+,7.2,N/A
+18,Jane Eyre,2006,7+,8.3,N/A
+19,Angie Tribeca,2016,16+,7.0,96%
+20,Black Clover,2017,16+,8.0,N/A
+21,Lodge 49,2018,16+,7.5,93%
+22,H2O: Just Add Water,2006,all,7.2,N/A
+23,WWE Raw,1993,7+,7.8,N/A
+24,Greek,2007,16+,7.5,75%
+25,Legends,2014,16+,7.5,56%
+26,S.W.A.T.,2017,16+,7.0,N/A
+27,The Path,2016,18+,7.3,77%
+28,Black Butler,2008,16+,7.8,N/A
+29,Flashpoint,2008,16+,7.7,N/A
+30,Single Parents,2018,7+,7.0,75%
+31,Deadliest Catch,2005,7+,7.8,N/A
+32,King of the Hill,1997,7+,7.3,N/A
+33,Trust,2018,18+,7.5,78%
+34,Prodigal Son,2019,16+,8.2,54%
+35,Doc Martin,2004,7+,8.3,N/A
+36,Animaniacs,1993,all,7.9,N/A
+37,Top Chef,2006,16+,7.5,N/A
+38,10 Things I Hate About You,2009,16+,7.3,88%
+39,Brothers and Sisters,2006,16+,7.3,N/A
+40,Baby Daddy,2012,16+,7.3,N/A
+41,The Glades,2010,16+,7.5,59%
+42,The Fairly OddParents,2001,all,7.2,N/A
+43,Twisted,2013,16+,7.3,73%
+44,Teenage Mutant Ninja Turtles,2012,7+,7.8,N/A
+45,Mary Kills People,2017,18+,7.5,100%
+46,Hey Arnold!,1996,all,7.6,N/A
+47,NOS4A2,2019,16+,6.7,68%
+48,Making It,2018,7+,7.9,100%
+49,Das Boot,2018,N/A,7.3,85%
+0,Alone,2015,16+,8.4,N/A
+1,Happy Days,1974,7+,7.4,N/A
+2,Queen Sugar,2016,16+,7.7,97%
+3,Murdoch Mysteries,2008,7+,8.1,N/A
+4,Kamisama Kiss,2012,7+,8.1,N/A
+5,Solar Opposites,2020,18+,8.2,N/A
+6,CSI: Miami,2002,16+,6.4,N/A
+7,Miranda,2009,7+,8.1,N/A
+8,I Am the Night,2019,7+,7.0,74%
+9,"Sabrina, the Teenage Witch",1996,all,6.6,N/A
+10,The Legend of the Blue Sea,2016,N/A,8.1,N/A
+11,Claws,2017,18+,7.3,90%
+12,The Split,2018,N/A,7.6,73%
+13,American Housewife,2016,7+,7.3,N/A
+14,Airwolf,1984,7+,6.7,N/A
+15,Leah Remini: Scientology and the Aftermath,2016,16+,9.1,N/A
+16,America's Next Top Model,2003,7+,5.5,N/A
+17,Metalocalypse,2006,18+,8.2,N/A
+18,The Musketeers,2014,16+,7.8,N/A
+19,Life in Pieces,2015,7+,8.0,N/A
+20,LEGO Masters,2020,7+,7.2,67%
+21,Bleak House,2005,16+,8.3,N/A
+22,Rugrats,1991,all,7.4,N/A
+23,Good Luck Charlie,2010,all,7.0,N/A
+24,Highschool of the Dead,2010,18+,7.2,N/A
+25,My Teen Romantic Comedy SNAFU,2013,16+,7.8,N/A
+26,The First 48,2004,18+,8.2,N/A
+27,Cardinal,2017,16+,7.7,N/A
+28,X-Men: Evolution,2000,7+,7.9,N/A
+29,Monster Musume: Everyday Life with Monster Girls,2017,18+,6.7,N/A
+30,The Event,2010,16+,7.0,67%
+31,Spiral,2005,7+,8.5,N/A
+32,Deutschland 86,2018,N/A,7.6,100%
+33,Overlord,2015,18+,7.8,N/A
+34,Pawn Stars,2009,7+,7.2,N/A
+35,Reprisal,2019,18+,7.5,44%
+36,The Eric Andre Show,2012,18+,8.6,N/A
+37,Taxi,1978,7+,7.6,N/A
+38,American Gothic,1995,7+,8.1,67%
+39,Ouran High School Host Club,2006,16+,8.2,N/A
+40,Atlantis,2013,7+,6.6,62%
+41,The Mick,2017,16+,7.8,N/A
+42,Holey Moley,2019,7+,6.7,91%
+43,My Little Pony: Friendship Is Magic,2010,7+,7.6,N/A
+44,Dawson's Creek,1998,16+,6.6,N/A
+45,Anthony Bourdain: No Reservations,2005,7+,8.4,N/A
+46,Robin of Sherwood,1984,N/A,8.5,N/A
+47,The Curse of Oak Island,2014,7+,7.0,N/A
+48,Noragami,2014,16+,7.9,N/A
+49,Black Lagoon,2006,18+,8.0,N/A
+0,The League of Gentlemen,1999,18+,8.4,N/A
+1,Bless This Mess,2019,7+,6.7,82%
+2,Danny Phantom,2004,7+,7.1,N/A
+3,Assassination Classroom,2015,16+,8.0,N/A
+4,Schooled,2019,7+,6.9,73%
+5,Yu-Gi-Oh! GX,2004,all,6.7,N/A
+6,Ergo Proxy,2006,16+,8.0,N/A
+7,The Masked Singer,2019,7+,6.3,N/A
+8,Sealab 2021,2000,16+,7.9,74%
+9,Numb3rs,2006,7+,6.9,N/A
+10,Friday Night Dinner,2011,18+,8.1,N/A
+11,The Bold Type,2017,16+,8.0,N/A
+12,Naked and Afraid,2013,16+,6.6,N/A
+13,Pitch,2016,16+,7.4,94%
+14,Silent Witness,1996,16+,7.8,N/A
+15,Breakout Kings,2011,16+,7.3,41%
+16,Clannad,2007,7+,7.9,N/A
+17,Dragon Ball GT,1996,7+,6.8,N/A
+18,Fire Force,2019,7+,7.7,N/A
+19,Saving Hope,2012,16+,7.5,N/A
+20,Intervention,2005,16+,7.9,N/A
+21,Songland,2019,7+,7.7,67%
+22,Diabolik Lovers,2013,16+,5.3,N/A
+23,Outsourced,2010,16+,7.5,20%
+24,Saved by the Bell,1989,all,7.0,N/A
+25,60 Days In,2016,16+,7.7,N/A
+26,How the Universe Works,2010,7+,9.0,N/A
+27,Station 19,2018,16+,6.5,N/A
+28,DARLING in the FRANXX,2018,16+,7.3,N/A
+29,We Bare Bears,2015,7+,7.9,N/A
+30,The Son,2017,16+,7.5,52%
+31,Taken,2017,16+,6.6,32%
+32,MasterChef,2010,16+,7.3,N/A
+33,The Outer Limits,1995,18+,7.7,N/A
+34,Crayon Shin-chan,1992,7+,7.9,N/A
+35,The Ultimate Fighter,2005,16+,7.8,N/A
+36,Vampire Knight,2008,16+,7.5,N/A
+37,Saving Grace,2007,18+,7.6,73%
+38,Clique,2017,7+,7.0,100%
+39,The Long Road Home,2017,18+,7.5,77%
+40,Lincoln Rhyme: Hunt for the Bone Collector,2020,16+,6.9,30%
+41,Darker than Black,2007,16+,7.8,N/A
+42,Forensic Files,1996,16+,8.8,N/A
+43,The First,2018,18+,6.7,68%
+44,90 Day Fiancé,2014,16+,6.3,N/A
+45,This Country,2017,16+,8.5,96%
+46,Project Runway,2004,16+,7.3,N/A
+47,9-1-1: Lone Star,2020,16+,6.4,N/A
+48,Highlander: The Series,1992,16+,7.2,N/A
+49,Lark Rise to Candleford,2008,7+,8.1,N/A
+0,Digimon Tamers,2001,7+,7.7,N/A
+1,Devious Maids,2013,7+,7.8,N/A
+2,Forged in Fire,2015,7+,8.4,N/A
+3,Catfish: The TV Show,2012,16+,7.1,N/A
+4,Agatha Christie's Marple,2004,16+,7.8,N/A
+5,Into the Dark,2018,18+,6.3,73%
+6,Higurashi When They Cry,2006,18+,8.0,N/A
+7,Sense and Sensibility,2008,16+,8.0,N/A
+8,The Purge,2018,18+,6.4,42%
+9,Monogatari,2009,16+,8.0,N/A
+10,"Beverly Hills, 90210",1990,7+,6.3,N/A
+11,Homicide Hunter: Lt Joe Kenda,2011,16+,8.8,N/A
+12,Magi,2012,16+,7.9,N/A
+13,90 Day Fiancé: Before the 90 Days,2017,16+,6.6,N/A
+14,The Joy of Painting,1983,all,9.4,N/A
+15,Tyler Perry's If Loving You Is Wrong,2014,16+,5.8,N/A
+16,The Penguins of Madagascar,2009,7+,7.6,N/A
+17,Seraph of the End,2015,16+,7.5,N/A
+18,General Hospital,1963,7+,6.5,N/A
+19,Party of Five,1994,7+,6.8,N/A
+20,Drunk History,2013,16+,7.8,N/A
+21,Remington Steele,1982,7+,7.2,N/A
+22,Scott & Bailey,2011,7+,7.9,N/A
+23,Survivorman,2004,7+,8.2,N/A
+24,Kitchen Nightmares,2007,16+,7.4,N/A
+25,Melissa & Joey,2010,7+,7.0,N/A
+26,Apple Tree Yard,2017,18+,7.1,92%
+27,Upstairs Downstairs,2010,7+,7.4,N/A
+28,Man vs. Wild,2006,7+,8.1,N/A
+29,Gangland Undercover,2015,16+,8.2,N/A
+30,Simon & Simon,1981,N/A,7.1,N/A
+31,Is It Wrong to Try to Pick Up Girls in a Dungeon?,2015,16+,7.4,N/A
+32,Puella Magi Madoka Magica,2011,16+,8.3,N/A
+33,Dollface,2019,N/A,7.3,50%
+34,Durarara!!,2010,16+,7.9,N/A
+35,While You Were Sleeping,2017,N/A,8.4,N/A
+36,River Monsters,2009,7+,8.1,N/A
+37,Difficult People,2015,18+,7.0,95%
+38,DCI Banks,2011,18+,7.6,N/A
+39,Hill Street Blues,1981,16+,8.1,N/A
+40,Fruits Basket,2019,7+,8.3,N/A
+41,Gold Rush,2011,7+,7.3,N/A
+42,Foster's Home for Imaginary Friends,2004,7+,7.6,N/A
+43,Good Trouble,2019,16+,7.4,N/A
+44,National Treasure,2016,16+,7.4,91%
+45,Time After Time,2017,16+,6.7,67%
+46,Brickleberry,2012,18+,7.4,N/A
+47,The Familiar of Zero,2006,16+,7.1,N/A
+48,Prisoners of War,2010,N/A,8.4,100%
+49,Kenichi The Mightiest Disciple,2006,16+,8.2,N/A
+0,The Conners,2018,7+,5.3,89%
+1,I'm Dying Up Here,2017,18+,7.4,51%
+2,Adam-12,1968,7+,7.5,N/A
+3,The Powerpuff Girls,1998,7+,7.2,N/A
+4,Expedition Unknown,2015,7+,8.2,N/A
+5,Wings,1990,7+,7.2,N/A
+6,The Tonight Show Starring Jimmy Fallon,2014,16+,7.3,N/A
+7,The Firm,2012,16+,7.0,39%
+8,Family Matters,1989,all,6.5,N/A
+9,The Fades,2011,18+,7.8,N/A
+10,The Voice,2011,7+,6.5,N/A
+11,Fixer Upper,2013,all,8.3,N/A
+12,Garfield and Friends,1988,7+,7.3,N/A
+13,Mr. Pickles,2014,18+,7.3,N/A
+14,Jeopardy!,1964,all,8.2,N/A
+15,America's Funniest Home Videos,1989,7+,6.2,N/A
+16,Boys Over Flowers,2009,16+,8.0,N/A
+17,Fate/stay night [Unlimited Blade Works],2014,18+,8.0,N/A
+18,Kojak,1973,16+,7.1,N/A
+19,Star,2016,16+,6.6,N/A
+20,The Guardian,2001,7+,7.4,N/A
+21,Maid Sama!,2010,16+,8.0,N/A
+22,McLeod's Daughters,2001,16+,7.2,N/A
+23,Lupin the Third,1971,16+,7.9,N/A
+24,The Marvelous Misadventures of Flapjack,2008,7+,7.8,N/A
+25,Log Horizon,2013,16+,7.7,N/A
+26,The Cool Kids,2018,16+,6.9,65%
+27,Second Chance,2016,16+,7.5,N/A
+28,The Pink Panther Show,1964,all,7.6,N/A
+29,What's Wrong with Secretary Kim,2018,all,8.1,N/A
+30,Four Weddings and a Funeral,2019,N/A,7.1,43%
+31,Fast N' Loud,2012,16+,7.5,N/A
+32,The Carmichael Show,2015,7+,7.6,86%
+33,Shots Fired,2017,16+,6.4,84%
+34,Harrow,2018,N/A,7.6,N/A
+35,"Diners, Drive-Ins and Dives",2007,all,7.3,N/A
+36,New Tricks,2003,16+,7.8,N/A
+37,False Flag,2015,N/A,7.8,N/A
+38,Land of Honor,2014,16+,7.9,N/A
+39,24: Legacy,2017,16+,6.2,59%
+40,A.N.T. Farm,2011,all,5.0,N/A
+41,Banished,2015,18+,7.4,N/A
+42,Tyler Perry's The Haves and the Have Nots,2013,N/A,6.0,N/A
+43,K.C. Undercover,2015,all,6.1,N/A
+44,Doug,1991,all,7.4,N/A
+45,Shiki,2010,18+,7.7,N/A
+46,Wolfblood,2013,7+,7.7,N/A
+47,Dark Shadows,1966,7+,7.5,N/A
+48,How It's Made,2001,all,7.8,N/A
+49,Ghosted,2017,7+,6.2,59%
+0,Detroit 1-8-7,2010,16+,7.6,83%
+1,Samantha Who?,2007,7+,7.3,77%
+2,Real Humans,2012,16+,7.9,N/A
+3,Little Britain,2003,18+,7.6,N/A
+4,Blue Exorcist,2011,16+,7.5,N/A
+5,Life Below Zero,2013,7+,8.0,N/A
+6,Moone Boy,2012,16+,8.1,N/A
+7,Unsolved Mysteries,1987,7+,8.3,N/A
+8,T@gged,2016,16+,7.3,N/A
+9,Being Erica,2009,16+,7.5,N/A
+10,World of Dance,2017,7+,7.1,N/A
+11,Coronation Street,1960,7+,5.5,N/A
+12,Ranma ½,1989,16+,7.9,N/A
+13,Fate/stay night,2006,18+,7.4,N/A
+14,House Hunters,1999,all,8.2,N/A
+15,The Bob Newhart Show,1972,all,8.1,N/A
+16,Spy,2011,7+,7.9,100%
+17,The Practice,1997,16+,7.7,N/A
+18,American Pickers,2010,7+,7.0,N/A
+19,Medium,2005,16+,6.9,N/A
+20,mixed-ish,2019,7+,6.2,80%
+21,The Secret Life of the American Teenager,2008,16+,4.9,N/A
+22,Deputy,2020,16+,6.1,40%
+23,The PJs,1999,16+,6.6,N/A
+24,Married at First Sight,2014,16+,6.3,N/A
+25,American Ninja Warrior,2009,7+,6.8,N/A
+26,Shut Eye,2016,18+,7.4,43%
+27,Oh My Venus,2015,N/A,7.8,N/A
+28,Sailor Moon Crystal,2014,16+,7.9,N/A
+29,Running Wild with Bear Grylls,2014,7+,7.7,N/A
+30,Chowder,2007,7+,7.3,N/A
+31,Yu-Gi-Oh!,1998,N/A,7.9,N/A
+32,Thief,2006,18+,7.5,81%
+33,Nightwatch,2015,16+,8.9,N/A
+34,Bluestone 42,2013,16+,8.0,N/A
+35,Snow White with the Red Hair,2015,16+,7.8,N/A
+36,The Three Stooges,1934,all,8.6,N/A
+37,Speechless,2016,7+,7.6,N/A
+38,The Mary Tyler Moore Show,1970,7+,8.1,N/A
+39,Penn & Teller: Bullshit!,2003,18+,8.2,N/A
+40,RuPaul's Drag Race: Untucked,2010,16+,7.9,N/A
+41,The Lord of the Skies,2013,16+,6.8,N/A
+42,Fosse/Verdon,2019,18+,7.9,81%
+43,GameFace,2017,N/A,7.7,83%
+44,Chopped,2009,all,7.5,N/A
+45,Shark,2006,16+,7.1,52%
+46,Light as a Feather,2018,16+,6.6,44%
+47,Big Time Rush,2009,all,6.2,N/A
+48,St. Elsewhere,1982,7+,7.8,N/A
+49,K-ON!,2009,16+,7.6,N/A
+0,Murder in the First,2014,18+,7.2,N/A
+1,"Love, Chunibyo & Other Delusions",2012,16+,7.4,N/A
+2,Eli Stone,2008,7+,7.6,60%
+3,Dirty Sexy Money,2007,16+,7.2,68%
+4,The Adventures of Jimmy Neutron: Boy Genius,2002,all,6.7,N/A
+5,Horrible Histories,2009,7+,8.8,N/A
+6,Teen Titans Go!,2013,7+,5.2,N/A
+7,Full Metal Panic!,2002,16+,7.6,N/A
+8,"Drugs, Inc.",2010,16+,7.8,N/A
+9,The Rifleman,1958,7+,8.3,N/A
+10,The Incredible Dr. Pol,2011,7+,8.6,N/A
+11,The Great,2020,N/A,7.2,80%
+12,Reba,2001,7+,6.5,N/A
+13,The Story of Film: An Odyssey,2011,N/A,8.5,N/A
+14,The Thundermans,2013,all,5.7,N/A
+15,Mistresses,2013,16+,7.1,N/A
+16,Dance Moms,2011,7+,4.6,N/A
+17,Space Dandy,2014,16+,8.1,83%
+18,Jeremiah,2002,18+,7.0,N/A
+19,Diff'rent Strokes,1978,all,6.6,N/A
+20,Street Outlaws,2013,7+,6.7,N/A
+21,The Dead Files,2011,7+,6.8,N/A
+22,Stan Against Evil,2016,18+,7.3,N/A
+23,Man v. Food,2008,all,7.3,N/A
+24,The Most Dangerous Animal of All,2020,16+,6.2,73%
+25,Rev.,2010,16+,7.9,N/A
+26,Travel Man: 48 Hours in...,2015,7+,8.3,N/A
+27,Bakuman,2010,16+,8.0,N/A
+28,Blue Spring Ride,2014,N/A,7.4,N/A
+29,Storage Wars,2010,7+,6.4,N/A
+30,Dharma & Greg,1997,16+,6.3,N/A
+31,D.Gray-man,2006,16+,7.7,N/A
+32,Zac & Mia,2017,16+,8.1,N/A
+33,Kimi ni Todoke: From Me to You,2009,7+,7.8,N/A
+34,American Idol,2002,7+,4.1,68%
+35,The Greatest American Hero,1981,7+,7.3,N/A
+36,Spice and Wolf,2008,16+,8.0,N/A
+37,Offspring,2010,16+,8.2,N/A
+38,The Fall Guy,1981,7+,7.1,N/A
+39,The Code,2014,N/A,7.4,N/A
+40,Persona 4 The Animation,2011,7+,7.6,N/A
+41,Toriko,2011,7+,7.3,N/A
+42,Almost Family,2019,16+,6.4,24%
+43,Dimension 404,2017,7+,6.6,80%
+44,Beyond Scared Straight,2011,18+,7.3,N/A
+45,Blood Blockade Battlefront,2015,18+,7.2,N/A
+46,World Trigger,2014,16+,7.5,N/A
+47,Inside Amy Schumer,2013,18+,6.0,86%
+48,X Company,2015,16+,7.7,N/A
+49,Braquo,2009,7+,8.0,N/A
+0,The Cleveland Show,2009,16+,5.5,N/A
+1,Rosario + Vampire,2008,18+,7.0,N/A
+2,The Beverly Hillbillies,1962,all,7.1,N/A
+3,Lip Service,2010,18+,7.4,N/A
+4,Gordon Ramsay's 24 Hours to Hell and Back,2018,16+,7.3,N/A
+5,The Kennedys,2011,18+,7.6,N/A
+6,Haven't You Heard? I'm Sakamoto,2016,16+,7.2,N/A
+7,The Riches,2007,18+,7.8,N/A
+8,Fruits Basket,2001,7+,7.9,N/A
+9,Step by Step,1991,all,6.5,N/A
+10,Bluff City Law,2019,16+,6.7,36%
+11,Dice,2016,18+,7.4,33%
+12,Burden of Truth,2018,16+,7.2,N/A
+13,How Not to Summon a Demon Lord,2018,18+,7.1,N/A
+14,Outnumbered,2007,7+,8.0,N/A
+15,Midnattssol,2016,7+,7.5,N/A
+16,Him & Her,2010,16+,7.8,N/A
+17,Un village français,2009,N/A,8.3,N/A
+18,Pasión Prohibida,2013,N/A,8.4,N/A
+19,The White Shadow,1978,N/A,8.0,N/A
+20,Good Bones,2015,N/A,7.3,N/A
+21,The Incredible Hulk,1978,7+,7.0,N/A
+22,Find Me in Paris,2018,all,7.3,N/A
+23,WWE NXT,2010,7+,7.7,N/A
+24,Hellsing,2001,16+,7.9,N/A
+25,SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist,2015,18+,7.1,N/A
+26,Bad Banks,2018,7+,8.0,N/A
+27,Cold Case Files,1999,18+,8.0,N/A
+28,Locked Up Abroad,2006,16+,8.2,N/A
+29,Look Around You,2002,7+,8.4,N/A
+30,Hillary,2020,18+,5.9,77%
+31,Laverne & Shirley,1976,all,6.9,N/A
+32,Intruders,2014,16+,6.7,39%
+33,The Bastard Executioner,2015,18+,6.2,47%
+34,The Biggest Loser,2004,7+,5.4,N/A
+35,Alone Together,2018,16+,6.3,62%
+36,Rosewood,2015,16+,6.7,9%
+37,Duncanville,2020,16+,5.6,89%
+38,Perfect Harmony,2019,7+,6.6,62%
+39,Yona of the Dawn,2014,16+,8.1,N/A
+40,Monthly Girls' Nozaki-kun,2014,7+,7.7,N/A
+41,Sonic x,2003,16+,6.1,N/A
+42,20/20,1978,N/A,6.6,N/A
+43,The Dana Carvey Show,1996,N/A,7.3,80%
+44,Dates,2013,N/A,7.5,88%
+45,Love Stage!!,2014,18+,7.3,N/A
+46,Guilty Crown,2011,16+,7.1,N/A
+47,The Accident,2019,N/A,6.0,92%
+48,Mountain Men,2012,7+,7.3,N/A
+49,WWE Friday Night SmackDown,1999,7+,7.3,N/A
+0,Graves,2016,18+,6.5,50%
+1,Tiny Toon Adventures,1990,all,7.5,N/A
+2,Infinite Stratos,2011,18+,6.7,N/A
+3,Naked and Afraid XL,2015,16+,7.4,N/A
+4,To Love-Ru,2008,18+,6.9,N/A
+5,The Odd Couple,2015,7+,6.4,N/A
+6,Cardfight!! Vanguard,2011,16+,7.2,N/A
+7,Dual Survival,2010,16+,7.5,N/A
+8,Plastic Memories,2015,16+,7.3,N/A
+9,Melrose Place,1992,16+,5.8,N/A
+10,MasterChef Junior,2013,all,6.7,N/A
+11,Property Brothers,2011,all,7.2,N/A
+12,Billy on the Street,2011,16+,7.7,N/A
+13,Kingdom,2007,N/A,7.9,N/A
+14,A Certain Scientific Railgun,2009,16+,7.5,N/A
+15,Girls und Panzer,2012,16+,7.5,N/A
+16,Mister Ed,1961,all,7.0,N/A
+17,Popeye the Sailor,1960,all,7.1,N/A
+18,Deadbeat,2014,16+,7.5,N/A
+19,Damien,2016,16+,6.9,11%
+20,American Gladiators,1989,7+,6.5,N/A
+21,Danganronpa: The Animation,2013,18+,6.8,N/A
+22,House Hunters International,2006,all,7.0,N/A
+23,Wiseguy,1987,7+,7.8,N/A
+24,Clarence,2014,7+,6.5,N/A
+25,Baywatch,1989,7+,5.3,N/A
+26,Sonic Boom,2014,7+,7.0,N/A
+27,Alias Smith and Jones,1971,7+,7.6,N/A
+28,City Homicide,2001,N/A,7.4,N/A
+29,Lost in Space,1965,all,7.2,N/A
+30,The Real Housewives of Beverly Hills,2010,16+,4.8,N/A
+31,Perfect Strangers,1986,7+,7.2,N/A
+32,Your Pretty Face Is Going to Hell,2013,18+,7.7,N/A
+33,Hard Sun,2018,18+,6.6,48%
+34,Taggart,1983,18+,7.2,N/A
+35,MEGALOBOX,2018,16+,7.8,N/A
+36,Packed to the Rafters,2008,18+,7.4,N/A
+37,Some Girls,2012,16+,7.6,N/A
+38,Justice League Action,2016,7+,7.7,N/A
+39,America's Got Talent,2006,7+,5.8,N/A
+40,Clannad After Story,2009,7+,8.6,N/A
+41,Cutthroat Kitchen,2013,all,7.2,N/A
+42,Ben 10: Omniverse,2012,7+,5.7,N/A
+43,Haganai: I Don't Have Many Friends,2011,18+,7.2,N/A
+44,OK K.O.! Let's Be Heroes,2017,7+,7.1,N/A
+45,"Doogie Howser, M.D.",1989,7+,6.5,N/A
+46,Ironside,1967,7+,6.9,N/A
+47,Bella and the Bulldogs,2015,all,5.2,N/A
+48,Silk Stalkings,1991,16+,6.5,N/A
+49,Alaska: The Last Frontier,2011,16+,7.7,N/A
+0,Champions,2018,7+,6.0,63%
+1,The Asterisk War,2015,16+,6.8,N/A
+2,Just Between Lovers,2017,N/A,8.0,N/A
+3,Love Island,2015,N/A,5.1,N/A
+4,Chivalry of a Failed Knight,2015,18+,7.4,N/A
+5,Baghdad Central,2020,N/A,7.1,88%
+6,Whose Line Is It Anyway? (UK),1988,7+,8.2,N/A
+7,Grimgar of Fantasy and Ash,2016,16+,7.5,N/A
+8,The Qwaser of Stigmata,2010,18+,5.5,N/A
+9,The Last Alaskans,2015,18+,8.5,N/A
+10,Deadly Women,2005,16+,8.0,N/A
+11,Hoarders,2009,7+,6.4,N/A
+12,Married,2014,18+,7.0,56%
+13,Living Single,1993,7+,7.3,N/A
+14,Vanderpump Rules,2013,16+,5.4,N/A
+15,The Fruit of Grisaia,2014,18+,7.1,N/A
+16,Wallander,2005,N/A,7.6,N/A
+17,The Game,2006,16+,6.7,N/A
+18,Every Witch Way,2014,7+,5.0,N/A
+19,My 600-lb Life,2012,16+,6.6,N/A
+20,This Way Up,2019,N/A,7.7,93%
+21,D.Gray-man Hallow,2016,16+,7.7,N/A
+22,My Life as a Teenage Robot,2003,all,7.0,N/A
+23,Devil May Cry,2007,18+,7.1,N/A
+24,Son of Zorn,2016,16+,6.7,58%
+25,Love Island Australia,2018,18+,5.4,N/A
+26,My Love Story!!,2015,7+,7.8,N/A
+27,grown-ish,2018,16+,6.4,N/A
+28,WATAMOTE,2013,16+,7.3,N/A
+29,Fear Factor,2001,7+,5.6,N/A
+30,Barbarians Rising,2016,18+,7.8,N/A
+31,The Real Housewives of New York City,2008,16+,4.3,N/A
+32,Designing Women,1986,7+,7.0,N/A
+33,Hunter,1984,7+,6.8,N/A
+34,Blood Lad,2013,16+,7.1,N/A
+35,Beck,1997,N/A,7.4,N/A
+36,Bring It!,2014,7+,6.6,N/A
+37,All Saints,1998,16+,7.0,N/A
+38,Reef Break,2019,7+,5.9,33%
+39,The Four: Battle for Stardom,2018,N/A,4.1,17%
+40,Cake Boss,2009,7+,6.6,N/A
+41,7th Heaven,1996,7+,5.2,N/A
+42,Sword Art Online Alternative: Gun Gale Online,2018,16+,6.8,N/A
+43,Father Knows Best,1954,all,7.4,N/A
+44,Primeval: New World,2012,16+,6.5,N/A
+45,Dietland,2018,16+,6.4,81%
+46,Beyond the Boundary,2013,16+,7.3,N/A
+47,Outmatched,2020,7+,5.6,22%
+48,Kämpfer,2009,18+,6.2,N/A
+49,Date a Live,2013,18+,7.0,N/A
+0,Voyage to the Bottom of the Sea,1964,7+,7.2,N/A
+1,Marido en Alquiler,2013,N/A,8.4,N/A
+2,Aesthetica of a Rogue Hero,2012,18+,7.2,N/A
+3,Devils Line,2018,18+,6.8,N/A
+4,Itazura na Kiss,2008,N/A,7.5,N/A
+5,Hellevator,2015,18+,6.0,N/A
+6,Good Doctor,2013,N/A,8.1,N/A
+7,Mysteries at the Museum,2010,7+,8.1,N/A
+8,Pramface,2012,16+,7.6,N/A
+9,The Moodys,2019,16+,6.6,62%
+10,Bering Sea Gold,2012,all,6.6,N/A
+11,Disappeared,2010,16+,8.0,N/A
+12,Utopia Falls,2020,N/A,4.9,33%
+13,Undercover Boss,2010,7+,5.8,N/A
+14,Worst Cooks in America,2010,all,6.4,N/A
+15,Swamp People,2010,7+,6.3,N/A
+16,Doc McStuffins,2012,all,6.7,N/A
+17,The Passing Bells,2014,N/A,6.9,N/A
+18,Say Yes to the Dress,2007,7+,5.6,N/A
+19,Hunter Street,2017,all,6.8,N/A
+20,Hollywood Game Night,2013,7+,7.3,N/A
+21,BuzzFeed Unsolved - True Crime,2016,N/A,8.9,N/A
+22,Sex&Drugs&Rock&Roll,2015,16+,7.1,N/A
+23,The Bachelorette,2003,16+,3.4,62%
+24,The Slap,2015,16+,7.6,67%
+25,"Acero, Woman of Steel",2014,16+,7.2,N/A
+26,Buzzfeed Unsolved: Supernatural,2016,N/A,8.7,N/A
+27,Daniel Deronda,2002,N/A,7.2,N/A
+28,Archangel,2005,N/A,6.5,N/A
+29,School Rumble,2004,7+,7.8,N/A
+30,Pure,2017,16+,7.0,N/A
+31,The Hills,2006,7+,3.5,52%
+32,Keeping Up with the Kardashians,2007,16+,2.8,N/A
+33,Wise Man’s Grandchild,2019,16+,6.7,N/A
+34,Kono Oto Tomare!: Sounds of Life,2019,7+,7.4,N/A
+35,Iron Chef America,2005,all,7.1,N/A
+36,Ultraviolet,2017,18+,7.0,N/A
+37,Dante's Cove,2005,18+,6.0,N/A
+38,Golden Time,2013,16+,7.5,N/A
+39,Criminal Minds: Suspect Behavior,2011,16+,6.3,42%
+40,Bachelor in Paradise,2014,16+,5.2,N/A
+41,Dog with a Blog,2012,all,4.8,N/A
+42,Love It or List It,2008,all,6.3,N/A
+43,90 Day Fiancé: Happily Ever After?,2016,16+,6.2,N/A
+44,Party of Five,2020,N/A,5.2,N/A
+45,Restaurant: Impossible,2011,all,6.8,N/A
+46,Blast of Tempest,2012,16+,7.6,N/A
+47,Paradox,2009,16+,7.1,N/A
+48,A Crime to Remember,2013,16+,8.3,N/A
+49,Total Divas,2013,16+,6.5,N/A
+0,Good Eats: Reloaded,2018,all,8.8,N/A
+1,Freakish,2016,16+,6.4,N/A
+2,Project Runway All Stars,2012,7+,7.0,N/A
+3,Mayo Chiki!,2011,18+,7.1,N/A
+4,The Real Housewives of New Jersey,2009,16+,4.0,N/A
+5,"Good Morning, Miss Bliss",1988,all,6.8,N/A
+6,Bloom,2019,18+,6.6,N/A
+7,Dr. Pimple Popper,2018,16+,6.6,N/A
+8,Zomboat!,2019,N/A,6.9,N/A
+9,Slayers,1995,7+,7.5,N/A
+10,Accel World,2012,16+,7.2,N/A
+11,Black Bullet,2014,18+,7.0,N/A
+12,Tanked,2011,7+,6.6,N/A
+13,"Say ""I love you.""",2012,16+,7.4,N/A
+14,The Smile Has Left Your Eyes,2018,all,7.4,N/A
+15,Himouto! Umaru-chan,2015,16+,7.0,N/A
+16,The Lowe Files,2017,7+,6.8,60%
+17,OutDaughtered,2016,7+,7.0,N/A
+18,Butterfly,2018,N/A,6.2,93%
+19,Total Bellas,2016,16+,5.8,N/A
+20,Celebrity Family Feud,2008,7+,6.1,N/A
+21,East Los High,2013,16+,7.0,N/A
+22,The Driver,2014,16+,7.0,N/A
+23,The Electric Company,1971,all,8.1,N/A
+24,Is This a Zombie?,2011,16+,7.1,N/A
+25,Castaways,2018,N/A,6.2,N/A
+26,Oreimo,2010,16+,6.5,N/A
+27,Lincoln Heights,2007,7+,7.7,N/A
+28,Three Sheets,2006,18+,8.2,N/A
+29,The Secret of Crickley Hall,2012,N/A,6.9,N/A
+30,Air Gear,2006,18+,7.2,N/A
+31,Marlon,2017,7+,7.0,N/A
+32,An American Murder Mystery: The Staircase,2018,16+,7.5,N/A
+33,Axe Cop,2013,18+,7.4,70%
+34,The Comedians,2015,18+,6.7,58%
+35,Maison Close,2010,18+,6.7,N/A
+36,The Real Housewives of Atlanta,2008,16+,4.3,N/A
+37,Unexpected,2017,16+,5.8,N/A
+38,The Only Way Is Essex,2010,18+,3.1,N/A
+39,Curious George,2006,all,7.1,N/A
+40,Trust Me,2017,N/A,7.0,79%
+41,Hetalia,2009,18+,7.4,N/A
+42,There's... Johnny!,2017,N/A,7.2,83%
+43,Quick Draw,2013,N/A,7.6,N/A
+44,The Next Step,2013,all,6.0,N/A
+45,Black Jesus,2014,18+,6.9,N/A
+46,Battleground,2012,N/A,7.9,73%
+47,Hangar 1: The UFO Files,2015,7+,7.4,N/A
+48,Dragnet,1967,7+,7.5,N/A
+49,Little Women: LA,2014,16+,5.4,N/A
+0,The Circus,2016,16+,7.1,N/A
+1,Melrose Place,2009,16+,6.0,60%
+2,The Dick Van Dyke Show,1961,all,6.8,N/A
+3,Skin Wars,2014,16+,7.1,N/A
+4,Elena's Ghost,2015,16+,7.6,N/A
+5,ID: INVADED,2020,18+,7.7,N/A
+6,Dueños del Paraíso,2015,16+,7.1,N/A
+7,The Great Food Truck Race,2010,all,6.6,N/A
+8,McHale's Navy,1962,all,7.4,N/A
+9,Weird Science,1994,N/A,6.8,N/A
+10,Council of Dads,2020,7+,6.1,50%
+11,Agent X,2015,16+,6.2,28%
+12,Blood-C,2011,18+,6.3,N/A
+13,Pocoyo,2005,all,7.5,N/A
+14,Prey,2014,16+,7.2,N/A
+15,Toilet-Bound Hanako-kun,2020,16+,7.5,N/A
+16,Renegade,1992,N/A,6.0,N/A
+17,Astro Boy,1980,all,7.3,N/A
+18,"I Love You, America",2017,18+,5.7,93%
+19,Bedlam,2011,N/A,6.6,44%
+20,Kiri,2018,N/A,6.6,89%
+21,Jersey Shore,2009,16+,3.6,N/A
+22,No Activity,2017,18+,6.7,N/A
+23,Great British Menu,2006,N/A,7.3,N/A
+24,"BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",2020,16+,7.2,N/A
+25,Kids Baking Championship,2015,all,7.0,N/A
+26,Arifureta: From Commonplace to World's Strongest,2019,16+,6.5,N/A
+27,The Food That Built America,2019,N/A,8.4,N/A
+28,Born This Way,2015,7+,8.3,N/A
+29,Tim and Eric's Bedtime Stories,2014,18+,7.9,N/A
+30,The F Word,2005,18+,6.9,N/A
+31,Guy's Grocery Games,2013,all,6.4,N/A
+32,Top Gear,2010,7+,5.3,N/A
+33,Attack on Titan: Junior High,2015,16+,6.5,N/A
+34,Jumanji,1996,7+,6.4,N/A
+35,Absolute Duo,2015,18+,6.5,N/A
+36,Amagami SS,2010,7+,6.8,N/A
+37,Criminal Justice,2008,N/A,7.8,N/A
+38,Princess Tutu,2002,16+,8.1,N/A
+39,America's Book of Secrets,2012,7+,7.0,N/A
+40,Bizarre Foods with Andrew Zimmern,2006,7+,7.8,N/A
+41,Black Cat,2005,16+,7.1,N/A
+42,The Bachelor Presents: Listen to Your Heart,2020,16+,5.1,N/A
+43,Hollyoaks,1995,16+,4.7,N/A
+44,Nazi Megastructures,2013,all,8.0,N/A
+45,Getting On,2009,16+,8.1,N/A
+46,"Nicky, Ricky, Dicky & Dawn",2014,all,5.1,N/A
+47,The Weekly,2019,18+,6.5,38%
+48,Angels of Death,2018,18+,6.4,N/A
+49,Upper Middle Bogan,2013,16+,7.9,N/A
+0,Fashion House,2006,18+,6.5,N/A
+1,Rick Steves' Europe,2000,all,8.4,N/A
+2,Unikitty,2017,7+,5.7,N/A
+3,Second chance,2005,7+,6.9,N/A
+4,The Commish,1991,16+,7.1,N/A
+5,Heathcliff,1984,7+,6.6,N/A
+6,Love & Hip Hop Hollywood,2014,16+,5.2,N/A
+7,Baka and Test: Summon the Beasts,2010,7+,7.4,N/A
+8,The Wine Show,2016,N/A,8.9,N/A
+9,Jimmy Kimmel Live!,2003,16+,6.6,N/A
+10,I Am Frankie,2017,all,6.1,N/A
+11,Plunderer,2020,16+,6.2,N/A
+12,F*ck That's Delicious,2016,18+,8.0,N/A
+13,Bless the Harts,2019,16+,4.9,82%
+14,The Little Couple,2009,all,6.8,N/A
+15,Yu-Gi-Oh! Arc-V,2014,7+,6.2,N/A
+16,Big Windup!,2007,7+,7.6,N/A
+17,The Lucy Show,1962,7+,7.2,N/A
+18,James May's Man Lab,2010,N/A,7.8,N/A
+19,The New Woody Woodpecker Show,1999,all,6.5,N/A
+20,Hangin' with Mr. Cooper,1992,7+,6.3,N/A
+21,Unusual Suspects,2010,16+,7.6,N/A
+22,Genius Junior,2018,all,7.5,N/A
+23,The Real Housewives of Orange County,2006,16+,4.1,N/A
+24,VanDread,2000,16+,7.1,N/A
+25,What Would You Do?,2008,7+,7.2,N/A
+26,Marriage Boot Camp: Reality Stars,2014,16+,4.5,N/A
+27,Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,2019,N/A,7.4,N/A
+28,Abandoned,2016,16+,8.4,N/A
+29,Cold Squad,1998,16+,6.9,N/A
+30,Young Hercules,1998,7+,5.8,N/A
+31,Extreme Ghostbusters,1997,7+,6.9,N/A
+32,The Dick Cavett Show,1968,N/A,8.4,N/A
+33,Hakuoki -Demon Of The Fleeting Blossom-,2010,18+,7.4,N/A
+34,Diesel Brothers,2016,16+,6.6,N/A
+35,Space Brothers,2012,16+,8.1,N/A
+36,Astra Lost in Space,2019,16+,8.0,N/A
+37,Feed the Beast,2016,16+,6.7,23%
+38,Corpse Princess,2008,7+,6.9,N/A
+39,Treehouse Masters,2013,7+,7.3,N/A
+40,Flip or Flop,2013,all,6.1,N/A
+41,Arliss,1996,N/A,7.0,N/A
+42,The Beautiful Lie,2015,N/A,7.3,N/A
+43,Fated to Love You,2008,7+,7.4,N/A
+44,Little Big Shots,2016,all,7.2,N/A
+45,Are You Smarter Than a 5th Grader?,2007,7+,4.9,N/A
+46,Insane Pools: Off the Deep End,2015,7+,7.1,N/A
+47,Vanished,2006,18+,7.0,67%
+48,The Bachelor,2002,16+,3.2,N/A
+49,Obsession: Dark Desires,2014,16+,7.4,N/A
+0,Ask This Old House,2002,all,7.6,N/A
+1,Webster,1983,all,5.7,N/A
+2,Ellen's Game of Games,2017,7+,5.6,N/A
+3,The Strange Calls,2012,18+,7.4,N/A
+4,Coupling,2000,7+,3.6,N/A
+5,Hikaru no Go,2001,all,8.3,N/A
+6,The Bisexual,2018,N/A,6.0,92%
+7,Taken at Birth,2019,N/A,8.4,N/A
+8,Bong Appétit,2016,16+,8.0,N/A
+9,Aria the Scarlet Ammo,2011,16+,6.8,N/A
+10,My Favorite Martian,1963,all,7.3,N/A
+11,Rabbids Invasion,2013,7+,5.0,N/A
+12,Little Women: Atlanta,2016,16+,5.1,N/A
+13,Witchblade,2006,18+,7.2,N/A
+14,頭文字D First Stage,1998,7+,8.4,N/A
+15,Alvinnn!!! and The Chipmunks,2015,7+,4.5,N/A
+16,Heartstrings,2011,16+,7.2,N/A
+17,Worth It,2016,N/A,8.6,N/A
+18,Seed,2013,18+,5.6,67%
+19,Saints & Sinners,2016,16+,7.3,N/A
+20,L.A. Dragnet,2003,N/A,7.1,N/A
+21,The Last Defense,2018,N/A,7.3,N/A
+22,Blue Dragon,2007,N/A,6.2,N/A
+23,Tiger & Bunny,2011,16+,7.4,N/A
+24,Watch Over Me,2006,16+,6.5,N/A
+25,Beat Bobby Flay,2014,all,6.3,N/A
+26,Handy Manny,2006,all,5.5,N/A
+27,Amagi Brilliant Park,2014,16+,7.0,N/A
+28,Curiosity,2011,16+,7.8,N/A
+29,Who Wants to Be a Millionaire,2020,16+,6.1,N/A
+30,Black Blood Brothers,2006,16+,7.1,N/A
+31,Yu-Gi-Oh! 5D's,2008,all,6.7,N/A
+32,Monster Rancher,1999,7+,7.1,N/A
+33,The Dude Perfect Show,2016,7+,6.6,N/A
+34,Ruyi's Royal Love in the Palace,2018,N/A,7.6,N/A
+35,Rosa Diamante,2012,N/A,8.3,N/A
+36,Behind Bars: Rookie Year,2015,16+,7.7,N/A
+37,Flea Market Flip,2012,all,6.6,N/A
+38,Little Mosque on the Prairie,2007,7+,5.6,N/A
+39,Matador,2014,16+,5.7,67%
+40,The Gumby Show,1955,all,7.0,N/A
+41,Anyone But Me,2009,16+,7.1,N/A
+42,El Clon,2000,N/A,6.8,N/A
+43,Sin tetas no hay paraíso,2008,18+,5.6,N/A
+44,StarTalk with Neil deGrasse Tyson,2015,all,7.8,N/A
+45,The Romeo Section,2015,16+,6.9,N/A
+46,The Wall,2016,7+,6.0,N/A
+47,Sister Wives,2010,16+,4.3,N/A
+48,Life and Death Row,2014,N/A,8.3,N/A
+49,The Impostor,2014,N/A,7.8,N/A
+0,Still 17,2018,N/A,7.8,N/A
+1,NASA's Unexplained Files,2012,all,6.7,N/A
+2,Madeline,1993,all,6.9,N/A
+3,Food Network Star,2005,7+,6.3,N/A
+4,The First 48 Presents: Homicide Squad Atlanta,2019,16+,8.5,N/A
+5,Chuggington,2008,all,5.9,N/A
+6,The Wallflower,2006,16+,7.5,N/A
+7,Cake,2019,18+,6.0,N/A
+8,Total Wipeout,2009,N/A,6.0,N/A
+9,I Am Jazz,2015,7+,4.1,N/A
+10,I Spy,1965,N/A,7.1,N/A
+11,My Strange Addiction,2010,16+,5.7,N/A
+12,Too Cute,2011,7+,8.5,N/A
+13,Threesome,2011,18+,7.6,N/A
+14,Wild Things with Dominic Monaghan,2013,16+,8.4,N/A
+15,Hunderby,2012,16+,7.4,N/A
+16,Australia's Next Top Model,2005,N/A,6.0,N/A
+17,Below the Surface,2017,N/A,7.2,N/A
+18,Conviction,2006,16+,6.9,N/A
+19,Kung Fu Panda: Legends of Awesomeness,2011,7+,6.1,N/A
+20,Cults and Extreme Belief,2018,16+,7.7,N/A
+21,No Activity,2015,18+,7.9,N/A
+22,Breaking Amish,2012,N/A,5.0,N/A
+23,"Rica, Famosa, Latina",2014,N/A,5.5,N/A
+24,Celia,2015,N/A,8.2,N/A
+25,The Gong Show,1976,7+,7.0,N/A
+26,Here's Lucy,1968,all,6.9,N/A
+27,Undefeated Bahamut Chronicle,2016,N/A,6.5,N/A
+28,Holiday Baking Championship,2014,all,7.5,N/A
+29,Flying Witch,2016,all,7.2,N/A
+30,Casey Anthony: An American Murder Mystery,2017,16+,7.2,N/A
+31,Nanny and the Professor,1970,N/A,7.1,N/A
+32,The Murder of Laci Peterson,2017,16+,7.4,N/A
+33,You Bet Your Life,1947,N/A,8.4,N/A
+34,Who The (Bleep) Did I Marry?,2010,7+,6.6,N/A
+35,High School USA!,2013,18+,6.4,44%
+36,Steampunk'd,2015,N/A,5.8,N/A
+37,Flirty Dancing,2019,7+,6.6,100%
+38,Brothers Conflict,2013,16+,6.1,N/A
+39,T.U.F.F. Puppy,2010,7+,5.6,N/A
+40,Sherlock Holmes,1954,N/A,7.7,N/A
+41,Our Cartoon President,2018,18+,5.1,N/A
+42,Harvey Beaks,2015,7+,7.0,N/A
+43,Bleak House,1985,N/A,7.4,N/A
+44,Boy Band,2017,N/A,5.2,N/A
+45,Hidden Potential,2018,7+,7.3,N/A
+46,Sherman's Showcase,2019,18+,5.4,100%
+47,Cupcake Wars,2010,all,5.8,N/A
+48,Dancing with the Stars,2005,7+,4.4,N/A
+49,Mr. D,2012,N/A,6.5,N/A
+0,The Aliens,2016,N/A,6.1,N/A
+1,Astroblast!,2014,all,6.7,N/A
+2,Mischief of the Gods,2014,16+,7.2,N/A
+3,Indebted,2020,16+,4.3,25%
+4,Food Paradise,2007,all,8.0,N/A
+5,1969,2019,N/A,6.9,N/A
+6,Brave 10,2012,7+,6.6,N/A
+7,The Real Housewives of Potomac,2016,16+,4.3,N/A
+8,Murder in the Heartland,2017,16+,7.8,N/A
+9,The Hotwives of Orlando,2014,16+,7.4,85%
+10,The Tesla Files,2018,N/A,7.3,N/A
+11,Dagashi Kashi,2016,16+,6.2,N/A
+12,Victoria's Secret Fashion Show,1999,18+,8.2,N/A
+13,Nura: Rise of the Yokai Clan,2010,N/A,7.6,N/A
+14,Card Captor Sakura: Clear Card,2018,N/A,7.9,N/A
+15,Law & Order True Crime,2017,16+,7.4,N/A
+16,To Tell the Truth,2016,N/A,6.4,N/A
+17,Mythbusters Jr.,2019,7+,6.8,N/A
+18,Kino's Journey: The Beautiful World - The Animated Series,2017,18+,7.1,N/A
+19,The Loop,2006,16+,7.4,N/A
+20,Nightmare Next Door,2011,16+,7.1,N/A
+21,Cockroaches,2015,N/A,6.2,N/A
+22,Caribbean Life,2014,all,6.6,N/A
+23,The Ambition of Oda Nobuna,2012,16+,6.5,N/A
+24,Dream Corp LLC,2016,16+,7.1,N/A
+25,Lucas Bros Moving Co,2013,18+,7.0,N/A
+26,The Librarians,2007,N/A,6.9,N/A
+27,Caillou,1998,all,4.1,N/A
+28,Tiny House Hunters,2014,all,6.1,N/A
+29,Beautiful Bones: Sakurako’s Investigation,2015,18+,6.9,N/A
+30,Senryu Girl,2019,7+,7.0,N/A
+31,Saved by the Bell: The College Years,1993,7+,6.3,9%
+32,Match Game,1973,16+,6.0,N/A
+33,Living With Fran,2005,N/A,5.8,N/A
+34,Miz & Mrs,2018,16+,6.3,N/A
+35,Filthy Rich,2016,N/A,7.2,N/A
+36,Your Worst Nightmare,2014,16+,7.0,N/A
+37,Broken Angel,2013,7+,7.1,N/A
+38,House Hunters Renovation,2012,all,6.4,N/A
+39,"Neon Joe, Werewolf Hunter",2015,16+,7.2,N/A
+40,School of Rock,2016,all,4.3,N/A
+41,I Am Cait,2015,16+,3.5,86%
+42,Shark Week,1987,16+,8.1,N/A
+43,Snake City,2014,N/A,8.6,N/A
+44,Blade Dance of Elementalers,2014,16+,6.7,N/A
+45,The Killer Speaks,2013,16+,7.4,N/A
+46,Psychic Detective Yakumo,2010,16+,6.7,N/A
+47,Aoharu x Machinegun,2015,16+,6.6,N/A
+48,Basketball Wives LA,2011,7+,4.2,N/A
+49,Uta no Prince-sama,2011,N/A,6.5,N/A
+0,Napoleon Dynamite,2012,7+,6.4,25%
+1,Next Great Baker,2010,16+,5.9,N/A
+2,Jodi Arias: An American Murder Mystery,2018,N/A,7.0,N/A
+3,Holly Hobbie,2018,7+,6.4,N/A
+4,Jeopardy! The Greatest of All Time,2020,7+,8.6,N/A
+5,Tenchi Muyô! GXP,2002,7+,7.1,N/A
+6,The New Detectives,1996,7+,7.6,N/A
+7,Property Virgins,2007,all,6.9,N/A
+8,Man Up!,2011,7+,6.6,21%
+9,Love Connection,2017,N/A,N/A,N/A
+10,The Hunt with John Walsh,2014,16+,7.5,N/A
+11,Outbreak Company,2013,16+,7.0,N/A
+12,I Love New York,2007,16+,4.5,N/A
+13,Nabari no Ou,2008,16+,6.5,N/A
+14,"The $100,000 Pyramid",2016,16+,6.2,N/A
+15,Sanjay and Craig,2013,7+,4.4,N/A
+16,WITS Academy,2015,all,5.7,N/A
+17,The Munsters Today,1988,N/A,5.3,N/A
+18,Negima!,2005,7+,6.1,N/A
+19,I Love Jenni,2011,7+,8.1,N/A
+20,Sex Sent Me to the ER,2013,18+,5.4,N/A
+21,Part of Me,2014,16+,8.6,N/A
+22,My Dead Ex,2018,N/A,7.1,N/A
+23,The Other Guy,2017,18+,6.8,N/A
+24,Paradise Run,2016,all,6.0,N/A
+25,Marrying Millions,2019,N/A,5.7,N/A
+26,Scorned: Love Kills,2012,16+,6.8,N/A
+27,Make It Pop,2015,all,4.9,N/A
+28,A Little Late with Lilly Singh,2019,16+,1.7,90%
+29,Long Island Medium,2011,7+,4.8,N/A
+30,Gap Year,2017,N/A,7.0,N/A
+31,American Gladiators,2008,N/A,5.6,N/A
+32,Alguien Te Mira,2010,7+,7.4,N/A
+33,Oddbods,2015,7+,6.3,N/A
+34,Cash Cab,2008,N/A,7.3,N/A
+35,Tarzán,1991,N/A,6.0,N/A
+36,Soul Eater Not!,2014,16+,5.7,N/A
+37,Juana la virgen,2002,N/A,5.9,N/A
+38,Bloque de Búsqueda,2016,N/A,7.8,N/A
+39,Rock of Love with Bret Michaels,2007,18+,4.8,N/A
+40,Gordon Ramsay's Home Cooking,2013,N/A,8.5,N/A
+41,Destiny,2014,N/A,9.6,N/A
+42,"Pinky, Elmyra & the Brain",1998,N/A,5.8,N/A
+43,Wasted,2016,N/A,7.4,N/A
+44,The Adventures of Paddington Bear,1997,all,7.1,N/A
+45,The Millionaire Matchmaker,2008,7+,4.6,N/A
+46,"Ready, Steady, Wiggle!",2013,all,8.4,N/A
+47,The Awesomes,2013,16+,7.3,N/A
+48,Late Night with Seth Meyers,2014,16+,6.1,N/A
+49,Gugure! Kokkuri-san,2014,N/A,7.4,N/A
+0,Wicked Tuna: Outer Banks,2014,16+,6.5,N/A
+1,Kaleido Star,2003,16+,7.7,N/A
+2,Til Death Do Us Part,2019,N/A,6.6,N/A
+3,.hack,2002,7+,6.9,18%
+4,Safe Harbor,1999,N/A,7.3,83%
+5,Sunnyside,2019,N/A,4.9,38%
+6,Fugget About It,2012,18+,5.8,N/A
+7,Endlings,2020,N/A,4.1,N/A
+8,The Chew,2011,7+,5.3,N/A
+9,Flavor of Love,2006,16+,4.5,N/A
+10,Britain's Best Home Cook,2018,N/A,7.8,N/A
+11,LEGO Friends,2012,all,5.2,N/A
+12,Miles from Tomorrowland,2015,all,6.7,N/A
+13,恋と選挙とチョコレート,2012,18+,7.2,N/A
+14,Stacked,2005,7+,6.0,N/A
+15,The History of Comedy,2017,18+,7.8,N/A
+16,Samurai Harem,2009,18+,5.9,N/A
+17,Basilisk,2005,18+,4.6,N/A
+18,Blade and Soul,2014,18+,6.0,N/A
+19,Sheriff Callie's Wild West,2013,all,6.4,N/A
+20,Max Steel,2000,7+,6.2,N/A
+21,Fresh Off the Boat,2012,16+,7.9,N/A
+22,Beachfront Bargain Hunt,2013,all,6.7,N/A
+23,Beat Shazam,2017,16+,6.1,N/A
+24,Stars Align,2019,16+,7.0,N/A
+25,Aquarion,2005,18+,6.6,N/A
+26,Property Brothers: Buying and Selling,2012,all,7.1,N/A
+27,The Riveras,2016,7+,6.9,N/A
+28,Special A,2008,16+,7.3,N/A
+29,David Copperfield,1966,all,7.3,N/A
+30,The Tower of Druaga: The Aegis of Uruk,2008,7+,6.8,N/A
+31,The Menendez Murders: Erik Tells All,2017,N/A,7.5,N/A
+32,Monster Fish,2007,N/A,6.7,N/A
+33,Cake Wars,2015,all,6.1,N/A
+34,Metástasis,2014,16+,2.5,N/A
+35,Inside the Criminal Mind,2018,18+,5.4,N/A
+36,Children of the Snow,2019,16+,7.3,N/A
+37,Kids Behind Bars: Life or Parole,2019,N/A,6.8,N/A
+38,Major Lazer,2015,18+,7.5,N/A
+39,The High Fructose Adventures of Annoying Orange,2012,7+,2.0,N/A
+40,Chopped Junior,2015,N/A,6.6,N/A
+41,Bridezillas,2004,16+,3.9,N/A
+42,Toopy and Binoo,2005,all,6.8,N/A
+43,Nutri Ventures – The Quest for the 7 Kingdoms,2013,all,7.3,N/A
+44,Crimes of the Century,2013,N/A,7.2,N/A
+45,Siblings,2014,N/A,7.1,N/A
+46,Side Effects,2013,N/A,7.4,N/A
+47,Tarzan: The Epic Adventures,1996,N/A,6.6,N/A
+48,Hakumei and Mikochi,2018,16+,7.3,N/A
+49,60 Days In: Narcoland,2019,16+,5.2,N/A
+0,Special 7: Special Crime Investigation Unit,2019,N/A,6.3,N/A
+1,The Real Housewives of Miami,2011,16+,2.9,N/A
+2,Azur Lane,2019,16+,5.7,N/A
+3,Guidance,2015,7+,5.7,N/A
+4,WWE Main Event,2012,7+,6.5,N/A
+5,Swiss Family Robinson,1974,7+,7.0,N/A
+6,The Cisco Kid,1950,N/A,7.3,N/A
+7,The Rap Game,2016,7+,5.3,N/A
+8,VICE Investigates,2019,18+,6.2,N/A
+9,Mental Samurai,2019,7+,6.0,N/A
+10,The Kennedys,2015,7+,7.2,N/A
+11,Spartan: Ultimate Team Challenge,2016,7+,5.7,N/A
+12,The New Adventures of Figaro Pho,2015,all,7.1,N/A
+13,Four Weddings,2009,7+,5.4,N/A
+14,Extreme Homes,2012,all,7.0,N/A
+15,Hayate the Combat Butler,2007,N/A,6.9,N/A
+16,Flavor of Love Girls: Charm School,2007,N/A,5.8,N/A
+17,1990s: The Deadliest Decade,2018,16+,7.9,N/A
+18,Coppelion,2013,16+,6.1,N/A
+19,Dead Boss,2012,N/A,6.6,N/A
+20,The Golden State Killer: It's Not Over,2018,16+,6.9,N/A
+21,"I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job.",2013,18+,6.4,N/A
+22,Kidô senshi Gandamu: The Origin I - Aoi hitomi no kyasubaru,2015,N/A,7.5,N/A
+23,Divorce Court,1999,N/A,4.1,N/A
+24,Dies Irae,2017,18+,5.4,N/A
+25,Toddlers & Tiaras,2009,7+,1.8,N/A
+26,Spoilers,2012,N/A,6.9,N/A
+27,What on Earth?,2015,7+,5.8,N/A
+28,Abandoned,2012,N/A,N/A,N/A
+29,Survival School,2008,N/A,7.0,N/A
+30,El Mariachi,2014,N/A,8.0,N/A
+31,"Golan, The Insatiable",2013,16+,6.8,N/A
+32,Uncle Grandpa,2013,7+,4.2,N/A
+33,Fujiko,2015,N/A,9.0,N/A
+34,Yu-Gi-Oh! Zexal,2011,7+,4.8,N/A
+35,Veni Vidi Vici,2017,18+,5.9,N/A
+36,Mrs. Piggle-Wiggle,1994,all,6.7,N/A
+37,Hello Kitty's Furry Tale Theater,1987,all,6.2,N/A
+38,Pinky Dinky Doo,2006,all,6.3,N/A
+39,Sydney Sailboat,2015,N/A,7.9,N/A
+40,Stone Quackers,2014,N/A,6.7,N/A
+41,Mighty Magiswords,2015,7+,4.9,N/A
+42,Garo: The Animation,2014,all,6.7,N/A
+43,Hitler's Last Stand,2018,16+,N/A,N/A
+44,The Case That Haunts Me,2018,16+,7.5,N/A
+45,Infinite Dendrogram,2020,16+,6.5,N/A
+46,Girls Beyond the Wasteland,2016,N/A,5.2,N/A
+47,Breadwinners,2005,7+,2.4,N/A
+48,Mad Mad House,2004,N/A,7.2,N/A
+49,Henry Hugglemonster,2013,all,5.2,N/A
+0,The Furchester Hotel,2014,all,6.8,N/A
+1,Get Ace,2014,all,8.3,N/A
+2,Love Daily,2018,N/A,6.7,N/A
+3,Afterlost,2019,N/A,5.5,N/A
+4,Biography: The Trump Dynasty,2019,16+,6.9,N/A
+5,What Just Happened??! with Fred Savage,2019,16+,4.2,67%
+6,Urara Meirocho,2017,16+,7.3,N/A
+7,Gigantor,1963,7+,6.9,N/A
+8,Chio's School Road,2018,N/A,7.3,N/A
+9,Barefoot Contessa: Back to Basics,2002,all,7.4,N/A
+10,Hang Ups,2018,N/A,6.3,N/A
+11,Behind the Mask,2013,N/A,7.2,N/A
+12,Sea Rescue,2012,all,8.8,N/A
+13,Sorcerous Stabber Orphen,2020,16+,6.5,N/A
+14,To Catch a Smuggler,2012,7+,6.8,N/A
+15,Nightcap,2016,7+,4.9,N/A
+16,Dead By Dawn,2019,N/A,7.0,N/A
+17,Special Forces,2012,N/A,9.0,N/A
+18,Love Thy Neighbor,2013,7+,4.2,N/A
+19,"Ruff-Ruff, Tweet and Dave",2015,all,7.6,N/A
+20,Bajo el Mismo Cielo,2015,16+,8.0,N/A
+21,Good Morning America,1975,all,4.6,N/A
+22,Zou,2012,N/A,7.1,N/A
+23,Forged in Fire: Knife or Death,2018,N/A,6.1,N/A
+24,Dama y Obrero,2013,N/A,7.7,N/A
+25,Pamela Smart: An American Murder Mystery,2018,16+,6.6,N/A
+26,My Super Sweet 16,2005,7+,1.8,N/A
+27,Chandra Levy: An American Murder Mystery,2017,16+,6.3,N/A
+28,The Proposal,2018,N/A,1.8,N/A
+29,Inside the NFL,1977,7+,6.9,N/A
+30,BEM,2019,N/A,5.9,N/A
+31,After School Dice Club,2019,16+,6.5,N/A
+32,The Powerpuff Girls,2016,7+,3.6,N/A
+33,NY-LON,2004,18+,7.5,N/A
+34,Cruel Love,2010,7+,6.6,N/A
+35,All Night,2018,N/A,5.6,N/A
+36,Dreamland,2014,N/A,4.7,N/A
+37,Jamie's Quick & Easy Food,2017,N/A,8.4,N/A
+38,Mix: Meisei Story,2019,7+,7.3,N/A
+39,"Wiggle, Wiggle, Wiggle",2018,all,6.2,N/A
+40,Charlie Rose,1991,all,7.5,N/A
+41,Wives with Knives,2012,16+,6.6,N/A
+42,Murder on the Internet,2017,N/A,7.2,N/A
+43,The Boonies,2016,N/A,7.0,N/A
+44,Beach Hunters,2016,N/A,4.6,N/A
+45,ABC World News,1978,N/A,5.8,N/A
+46,Maya and Yaya,2014,N/A,0.0,N/A
+47,Phenoms,2018,7+,7.3,N/A
+48,Runaways,2012,16+,7.8,N/A
+49,Big Block SingSong,2012,all,N/A,N/A
+0,Meet the Press,1947,all,5.5,N/A
+1,Daisy of Love,2009,16+,4.5,N/A
+2,Mickey's 90th Spectacular,2018,7+,7.0,N/A
+3,Corazón Valiente,2017,N/A,N/A,N/A
+4,Home Free,2015,all,7.0,N/A
+5,Kojak,2005,N/A,5.4,33%
+6,The Young Turks,2005,16+,5.5,N/A
+7,ClassicaLoid,2016,16+,6.4,N/A
+8,How The Earth Works,2013,N/A,7.2,N/A
+9,The Dating Guy,2009,18+,3.4,N/A
+10,The Return,2013,16+,7.3,N/A
+11,Smile at the Runway,2020,16+,7.0,N/A
+12,Kendra on Top,2012,7+,3.8,N/A
+13,Cooks vs. Cons,2016,7+,5.2,N/A
+14,My Knight and Me,2016,all,4.4,N/A
+15,The Show Must Go On: The Queen + Adam Lambert Story,2019,N/A,8.5,N/A
+16,The Last Days of Phil Hartman,2019,N/A,7.8,N/A
+17,Gensomaden Saiyuki,2000,16+,7.4,N/A
+18,Polly Pocket,2018,7+,6.4,N/A
+19,Hungry Henry,2014,N/A,9.5,N/A
+20,Kids Say the Darndest Things,2019,7+,3.1,N/A
+21,Planet Sheen,2010,7+,3.0,N/A
+22,Twisted Sisters,2018,16+,6.4,N/A
+23,Man Finds Food,2015,7+,7.4,N/A
+24,Jim Henson Presents Mother Goose Stories,1990,all,7.9,N/A
+25,The Great Christmas Light Fight,2013,all,6.3,N/A
+26,Pororo the Little Penguin,2003,all,5.7,N/A
+27,205 Live,2016,7+,7.1,N/A
+28,American Scandals,2015,N/A,8.4,N/A
+29,Many Sides of Jane,2019,N/A,5.6,N/A
+30,Black Market: Dispatches,2016,18+,7.8,N/A
+31,Holiday Magic,2017,N/A,7.0,N/A
+32,Tayo the Little Bus,2010,N/A,5.5,N/A
+33,L.A. Hair,2012,16+,6.2,N/A
+34,American Greed: The Fugitives,2012,N/A,8.0,N/A
+35,Showtime at the Apollo,1987,N/A,5.5,N/A
+36,A3! Season Spring & Summer,2020,16+,5.6,N/A
+37,WWE Superstars,2009,7+,5.8,N/A
+38,Disasters at Sea,2018,N/A,N/A,N/A
+39,Ellen's Greatest Night of Giveaways,2019,7+,6.3,N/A
+40,Making a Model with Yolanda Hadid,2018,N/A,6.5,N/A
+41,WTF Baron Davis,2019,18+,7.5,N/A
+42,Nightline,1980,7+,5.6,N/A
+43,The Interrogation Room,2018,16+,7.7,N/A
+44,Container Homes,2016,N/A,6.5,N/A
+45,Alien Encounters,2012,7+,6.2,N/A
+46,Ancient Top 10,2016,16+,7.7,N/A
+47,Eva La Trailera,2017,16+,7.2,N/A
+48,Mother Up!,2013,16+,4.5,N/A
+49,Finding Escobar's Millions,2017,16+,3.9,N/A
+0,Blood Runs Cold,2018,16+,7.3,N/A
+1,Place to Place,2012,7+,6.6,N/A
+2,Nightwatch Nation,2018,16+,N/A,N/A
+3,To LOVEる -とらぶる- ダークネス2nd,2012,16+,7.1,N/A
+4,Truth & Iliza,2017,7+,5.3,N/A
+5,Life of Kylie,2017,16+,3.5,N/A
+6,O.J. Simpson: The Lost Confession?,2018,N/A,6.6,N/A
+7,Close Up with The Hollywood Reporter,2015,16+,6.9,N/A
+8,Kourtney & Khloé Take the Hamptons,2014,16+,3.6,N/A
+9,Larry King Now,2013,N/A,5.6,N/A
+10,Jack Hanna's Into the Wild,2007,N/A,7.7,N/A
+11,Bloomberg Game Changers,2010,N/A,7.8,N/A
+12,Steve Harvey's Funderdome,2017,7+,7.0,N/A
+13,Home Town,2017,N/A,N/A,N/A
+14,Puppy Bowl,2005,all,N/A,N/A
+15,Where is Elisa?,2010,N/A,7.3,N/A
+16,Concertino,2011,N/A,0.0,N/A
+17,Nostradamus Effect,2009,N/A,5.1,N/A
+18,Star Wars Galaxy's Edge: Adventure Awaits,2019,N/A,6.3,N/A
+19,Chloe's Closet,2010,all,6.7,N/A
+20,Ranger Rob,2016,all,6.2,N/A
+21,CNBC Originals,2003,16+,N/A,N/A
+22,The Paynes,2018,N/A,4.5,N/A
+23,LA Story,2014,16+,6.4,N/A
+24,RocketJump: The Show,2015,16+,7.2,N/A
+25,The Burger Show,2018,N/A,7.2,N/A
+26,The View,1997,16+,2.6,N/A
+27,New York Goes to Work,2009,N/A,4.9,N/A
+28,A Day in the Life,2011,N/A,5.7,N/A
+29,Malyshariki,2015,N/A,7.1,N/A
+30,Fox News Sunday,1996,N/A,4.3,N/A
+31,Outsmarted,2017,N/A,7.9,N/A
+32,Cultureshock,2018,16+,6.5,N/A
+33,Zorro the Chronicles,2015,all,6.9,N/A
+34,UFO Conspiracies,2014,N/A,N/A,N/A
+35,Dead Again,2014,N/A,7.2,N/A
+36,Terrific Trucks,2016,all,5.5,N/A
+37,Psychic Investigators,2006,7+,7.2,N/A
+38,This Week,1981,7+,5.5,N/A
+39,Out There with Jack Randall,2019,N/A,6.9,N/A
+40,Dot.,2016,all,6.8,N/A
+41,A New Leaf,2019,N/A,3.1,N/A
+42,Rudy Maxas World,2008,all,8.0,N/A
+43,The Wildlife Docs,2013,all,8.5,N/A
+44,Woman,2016,18+,7.2,N/A
+45,The Untold Story,2019,16+,7.2,N/A
+46,Bakers vs. Fakers,2016,all,6.5,N/A
+47,Chiquis N'Control,2012,N/A,7.4,N/A
+48,Vets Saving Pets,2018,N/A,N/A,N/A
+49,Behind Closed Doors,2011,N/A,7.1,N/A
+0,Last Call with Carson Daly,2002,16+,2.9,N/A
+1,Los Caballeros Las Prefieren Brutas,2011,N/A,N/A,N/A
+2,Nerds and Monsters,2014,N/A,5.3,N/A
+3,Natalie Wood: An American Murder Mystery,2018,16+,6.4,N/A
+4,"Tengo Talento, Mucho Talento",2012,N/A,N/A,N/A
+5,En La Boca Del Lobo,2014,N/A,N/A,N/A
+6,Deadly Wives,2013,N/A,8.2,N/A
+7,Rin-ne,2015,16+,6.6,N/A
+8,Doozers,2014,all,6.3,N/A
+9,Spin the Wheel,2019,N/A,4.8,N/A
+10,The Family Chantel,2019,N/A,2.9,N/A
+11,Fill in the Prank,2017,N/A,6.2,N/A
+12,Born Behind Bars,2017,N/A,8.4,N/A
+13,"Underworld, Inc.",2015,7+,2.1,N/A
+14,The Bravest Knight,2019,N/A,5.6,N/A
+15,Atelier Escha & Logy : Alchemists of the Dusk Sky,2014,16+,5.9,N/A
+16,Glam Masters,2018,N/A,4.6,N/A
+17,Divided States,2018,16+,6.0,N/A
+18,Tree Fu Tom,2012,all,5.2,N/A
+19,Hot Package,2012,18+,6.6,N/A
+20,Tiny Beats,2013,N/A,N/A,N/A
+21,Bobby Flay's Barbecue Addiction,2011,7+,6.4,N/A
+22,Canciones Infantiles de BabyFirst,2012,N/A,0.0,N/A
+23,Utawarerumono: The False Faces,2015,16+,6.5,N/A
+24,How It Works,2007,all,8.0,N/A
+25,Earth Odyssey with Dylan Dreyer,2019,N/A,6.8,N/A
+26,Flophouse,2016,16+,5.2,N/A
+27,America's Cutest,2009,7+,7.2,N/A
+28,Noches con Platanito,2013,N/A,5.4,N/A
+29,Ladylike,2016,N/A,5.9,N/A
+30,Grey's Anatomy: B-Team,2018,N/A,N/A,N/A
+31,Cold Hearted,2018,16+,6.8,N/A
+32,Redacted Tonight,2014,N/A,7.7,N/A
+33,Joe and Jack,2012,all,4.9,N/A
+34,Chiro and Friends,2007,N/A,7.6,N/A
+35,AwesomenessTV,2013,7+,2.4,N/A
+36,Activate: The Global Citizen Movement,2019,N/A,4.9,N/A
+37,THE REFLECTION,2017,18+,5.9,N/A
+38,When Sharks Attack,2013,N/A,7.0,N/A
+39,Four of a Kind,2011,N/A,5.2,N/A
+40,The Crowned Goddess,2015,7+,7.2,N/A
+41,Egg Birds,2014,N/A,N/A,N/A
+42,Supernoobs,2015,7+,3.5,N/A
+43,CNBC Titans,2010,all,8.2,N/A
+44,Jammers,2011,N/A,N/A,N/A
+45,LittleBabyBum,2011,N/A,9.0,N/A
+46,Crime Inc.,2010,N/A,6.5,N/A
+47,WWE En Español,2012,7+,8.1,N/A
+48,UFC Fight Flashback,2014,N/A,8.8,N/A
+49,Sneaker Shopping,2014,N/A,7.7,N/A
+0,Counting On,2015,N/A,N/A,N/A
+1,Dish Nation,2011,7+,4.2,N/A
+2,Los Cowboys,2015,N/A,8.6,N/A
+3,Night Guard,2015,18+,7.7,N/A
+4,Countdown to UFC,2010,N/A,8.3,N/A
+5,Consumer 101,2018,all,4.0,N/A
+6,Day of Gluttony,2014,N/A,8.3,N/A
+7,Tulli,2010,N/A,6.1,N/A
+8,Paint Me a Story,2014,N/A,N/A,N/A
+9,Kenny & Goorie,2011,N/A,N/A,N/A
+10,El Sexo Débil,2015,N/A,N/A,N/A
+11,UFC Unleashed,2007,N/A,7.8,N/A
+12,Songs & Rhymes,2012,N/A,N/A,N/A
+13,The Posh Frock Shop,2018,N/A,8.1,N/A
+14,Pressure Cook,2007,N/A,7.3,N/A
+15,Hot Gay Comics,2008,N/A,4.3,N/A
+16,My Lottery Dream Home,2014,N/A,N/A,N/A
+17,ABC News Specials,2010,N/A,6.0,N/A
+18,Pasión de Gavilanes,2003,N/A,N/A,N/A
+19,Fields of Glory,2004,N/A,5.8,N/A
+20,Sean in the Wild,2017,N/A,7.2,N/A
+21,Vegimers,2015,N/A,N/A,N/A
+22,Package Deal,2013,N/A,3.2,N/A
+23,With All Due Respect,2014,N/A,8.2,N/A
+24,Pim & Pimba,2011,N/A,N/A,N/A
+25,The Little Rascals Classics,1931,N/A,N/A,N/A
+26,Kids Halloween Baking Championship,2016,N/A,7.0,N/A
+27,Crafty Rafty,2014,N/A,N/A,N/A
+28,HobbyKids Adventures,2019,N/A,3.0,N/A
+29,El Negocio,2014,N/A,N/A,N/A
+30,Big Bugs Band,2011,N/A,6.0,N/A
+31,Drain the Oceans,2018,N/A,N/A,N/A
+32,Oliver Discovers,2014,N/A,N/A,N/A
+33,Zero Punctuation,2014,N/A,N/A,N/A
+34,Dinner with Dad,2017,N/A,N/A,N/A
+35,Sophie La Girafe,2017,N/A,N/A,N/A
+36,Behind Tasty,2017,N/A,N/A,N/A
+37,Return to Downton Abbey: A Grand Event,2019,N/A,N/A,N/A
+38,Savage Kingdom,2016,N/A,N/A,N/A
+39,Top 30,2017,N/A,6.2,N/A
+40,Nina's World,2015,N/A,N/A,N/A
+41,What's New With Hulu,2019,N/A,N/A,N/A
+42,Page Six TV,2017,7+,4.6,N/A
+43,TRANsitioning,2017,N/A,N/A,N/A
+44,Los Beltrán,1999,N/A,N/A,N/A
+45,Behind the Bar,2011,N/A,4.4,N/A
+46,Lost Treasures of Egypt,2019,N/A,N/A,N/A
+47,Lo Que Callamos Las Mujeres,2012,N/A,N/A,N/A
+48,Howie Mandel's Animals Doing Things,2018,N/A,3.5,N/A
+49,Impact Wrestling,2006,N/A,N/A,N/A
+0,Go Eco,2014,N/A,N/A,N/A
+1,Amar y Temer,2011,N/A,N/A,N/A
+2,Best of BabyTV,2015,N/A,N/A,N/A
+3,The Alec Baldwin Show,2018,N/A,3.3,N/A
+4,Ultimate Survival WWII,2019,N/A,N/A,N/A
+5,We Day 2017,2017,N/A,5.5,N/A
+6,10 Essentials,2013,N/A,N/A,N/A
+7,Hippa Hey,2011,N/A,N/A,N/A
+8,Buried Secrets of WWII,2019,N/A,N/A,N/A
+9,Pitch & Potch,2014,N/A,N/A,N/A
+10,Iconic Characters,2018,N/A,N/A,N/A
+11,Strahan & Sara,2019,N/A,3.5,N/A
+12,Bath & Bed,2011,N/A,N/A,N/A
+13,Run,2013,N/A,N/A,N/A
+14,Tricky Tracks,2012,N/A,N/A,N/A
+15,Walter and Dude,2012,N/A,N/A,N/A
+16,She's Living for This,2012,N/A,5.1,N/A
+17,The Making of Frozen: A Return to Arendelle,2016,N/A,6.8,N/A
+18,Utano Princesama Revolutions,2015,N/A,4.1,N/A
+19,Sad Hot Girls,2017,N/A,N/A,N/A
+20,ABC Monsters,2010,all,N/A,N/A
+21,Taraji and Terrence's White Hot Holidays,2015,N/A,N/A,N/A
+22,Grandpa Joe's Magical Playground,2015,N/A,N/A,N/A
+23,Gold Medal Families,2016,18+,N/A,N/A
+24,Gourmet Makes,2018,N/A,N/A,N/A
+25,Draco,2011,N/A,N/A,N/A
+26,Cuddlies,2011,N/A,N/A,N/A
+27,NASA 360,2008,all,6.8,N/A
+28,Handcrafted,2017,N/A,N/A,N/A
+29,31 Nights of Halloween Fan Fest,2019,N/A,N/A,N/A
+30,Tinder Takeover,2016,N/A,N/A,N/A
+31,Videofashion! News,2006,N/A,5.6,N/A
+32,2111,2012,N/A,N/A,N/A
+33,Charlie & the Numbers,2011,N/A,N/A,N/A
+34,Aurora,2010,N/A,N/A,N/A
+35,On the Run Eatin' With N.O.R.E.,2018,N/A,N/A,N/A
+36,NASA X,2012,N/A,N/A,N/A
+37,ABC News Documentaries,2015,N/A,N/A,N/A
+38,The Shirley Temple Collection,1960,N/A,N/A,N/A
+39,48 Hours with Kygo,2019,N/A,N/A,N/A
+40,pocket.watch EvanTubeHD mishmash,2018,N/A,N/A,N/A
+41,Play Time,2008,N/A,N/A,N/A
+42,Lie Detector Test,2018,N/A,N/A,N/A
+43,It's Alive with Brad,2018,N/A,N/A,N/A
+44,Mr. Snail,2014,N/A,N/A,N/A
+45,A Murder on Orchard Street,2017,N/A,N/A,N/A
+46,#ThatsHarassment,2018,N/A,N/A,N/A
+47,South Park en Español,1997,N/A,N/A,N/A
+48,Politicking with Larry King,2013,N/A,N/A,N/A
+49,Billy Bam Bam,2011,N/A,N/A,N/A
+0,Actually Me,2017,N/A,N/A,N/A
+1,Scott Peterson: An American Murder Mystery,2017,N/A,N/A,N/A
+2,Stand Up to Cancer,2008,N/A,N/A,N/A
+3,Earth From Above,2011,N/A,N/A,N/A
+4,Bondi Harvest,2018,N/A,N/A,N/A
+5,Paranormal Lockdown UK,2018,N/A,N/A,N/A
+6,ABC News | Features,2016,N/A,N/A,N/A
+7,pocket.watch JillianTubeHD Ultimate mishmash,2018,N/A,N/A,N/A
+8,Time for Bed with Punam Patel,2017,N/A,N/A,N/A
+9,A Brief History,2016,N/A,N/A,N/A
+10,The Adventures of Dr. Buckeye Bottoms,2017,N/A,N/A,N/A
+11,Get Sweaty,2016,N/A,N/A,N/A
+12,pocket.watch Ryan Toys Review Ultimate mishmash,2018,N/A,N/A,N/A
+13,Blissful Thinking,2017,N/A,N/A,N/A
+14,Around The Way,2019,N/A,N/A,N/A
+15,Tasty 101,2016,N/A,N/A,N/A
+16,Thingstarter,2013,N/A,N/A,N/A
+17,Obsessed (WIRED),2017,N/A,N/A,N/A
+18,You Sang My Song,2017,N/A,N/A,N/A
+19,Modern Baby,2019,N/A,N/A,N/A
+20,Superstructures: Engineering Marvels,2019,N/A,N/A,N/A
+21,Stick with Mick,2011,N/A,N/A,N/A
+22,Truth and Lies: Watergate,2017,N/A,N/A,N/A
+23,Kids Try,2016,N/A,N/A,N/A
+24,Hello World,2016,N/A,N/A,N/A
+25,Chickenwatch,2018,N/A,N/A,N/A
+26,All the Pizza,2016,N/A,N/A,N/A
+27,Twitter Tech Support,2017,N/A,N/A,N/A
+28,Finding the Next,2016,N/A,N/A,N/A
+29,Ryan's World Specials presented by pocket.watch,2019,N/A,N/A,N/A
+30,NASA Television Documentaries,2015,N/A,N/A,N/A
+31,5 Levels,2017,N/A,N/A,N/A
+32,Pop Trigger,2012,N/A,N/A,N/A
+33,Celebrity Living,2015,N/A,N/A,N/A
+34,Chief Kim,2017,N/A,N/A,N/A
+35,Homebuddies,2017,N/A,N/A,N/A
+36,In the Giggle Park,2014,N/A,N/A,N/A
+37,ABC Primetime Nightline,2011,N/A,N/A,N/A
+38,Tiny Nuts,2014,N/A,N/A,N/A
+39,Asia's Underworld,2012,N/A,N/A,N/A
+40,Entre Caníbales,2015,N/A,N/A,N/A
+41,Grey's Anatomy: Post-Op,2017,N/A,N/A,N/A
+42,BBQuest,2018,N/A,N/A,N/A
+43,Wilderness Vet,2016,N/A,N/A,N/A
+44,Magnificent Obsessions,2014,N/A,N/A,N/A
+45,The 76th Annual Golden Globe Awards,2019,N/A,N/A,N/A
+46,24 Hours With,2018,N/A,N/A,N/A
+47,Crime Shock: Asia Exposed,2013,N/A,N/A,N/A
+48,Flip and Flash,2014,N/A,N/A,N/A
+49,Limomasters (Espanol),2014,N/A,N/A,N/A
+0,Rosaline,2016,N/A,N/A,N/A
+1,Triumph,2016,N/A,N/A,N/A
+2,Tasty's Made By Hand,2018,N/A,N/A,N/A
+3,Coming to the Stage,2003,N/A,N/A,N/A
+4,GMA Day,2018,N/A,N/A,N/A
+5,Caption Contest,2017,N/A,N/A,N/A
+6,Jeremiah Bullfrog Forks It,2017,N/A,N/A,N/A
+7,Luke Gamble's Vet Adventures,2010,N/A,N/A,N/A
+8,Jenni Rivera La Vida de Una Diva,2013,N/A,N/A,N/A
+9,ABC News | Garage Geniuses,2016,N/A,N/A,N/A
+10,Magic Eye Shark Movie,2013,N/A,N/A,N/A
+11,BabyFirst Nursery Songs,2015,N/A,N/A,N/A
+12,Dessert Games,2017,N/A,N/A,N/A
+13,Untamed with Filipe DeAndrade,2017,N/A,N/A,N/A
+14,Stone Age The Legendary Pet,2018,N/A,N/A,N/A
+15,Talks at GS,2017,N/A,N/A,N/A
+16,Style Evolution,2018,N/A,N/A,N/A
+17,Comedy InvAsian,2018,N/A,N/A,N/A
+18,Dates (US),2015,N/A,N/A,N/A
+19,Eating Your Feed,2018,N/A,N/A,N/A
+20,Raw. Vegan. Not Gross.,2013,N/A,N/A,N/A
+21,Laughs,2015,N/A,N/A,N/A
+22,Rudy Maxa's Travel,2001,N/A,N/A,N/A
+23,Struggle Meals,2017,N/A,N/A,N/A
+24,Pégate a Mick,2014,N/A,N/A,N/A
+25,Election Cycle,2016,N/A,N/A,N/A
+26,Strait Talk with Matt & LZ,2016,N/A,N/A,N/A
+27,ESL: Player vs Player,2017,N/A,N/A,N/A
+28,Revolt,2017,N/A,N/A,N/A
+29,UFC Ultimate Knockouts,2014,N/A,N/A,N/A
+30,Bogus Beauty,2017,N/A,N/A,N/A
+31,Mujeres Rompiendo el Silencio,2018,N/A,N/A,N/A
+32,Wedding Season,2017,N/A,N/A,N/A
+33,MOJO's The Circuit,2008,N/A,N/A,N/A
+34,The Oscars,1995,N/A,N/A,N/A
+35,Health + Happiness with Mayo Clinic,2018,N/A,N/A,N/A
+36,Things I Do,2015,N/A,N/A,N/A
+37,Popcorn With Peter Travers,2010,N/A,N/A,N/A
+38,Because of an Earlier Incident,2012,N/A,N/A,N/A
+39,Wooly,2010,N/A,N/A,N/A
+40,Heritage,2015,N/A,N/A,N/A
+41,Heart of a Champion,2016,N/A,N/A,N/A
+42,Almost Impossible,2017,N/A,N/A,N/A
+43,Especiales de Historia de México,2012,N/A,N/A,N/A
+44,Working 24 Hours At...,2015,N/A,N/A,N/A
+45,UFC Main Event,2007,N/A,N/A,N/A
+46,Fear Box,2018,N/A,N/A,N/A
+47,Mom In Progress,2018,N/A,N/A,N/A
+48,"I Draw, You Cook",2018,N/A,N/A,N/A
+49,Tasting Our Roots,2017,N/A,N/A,N/A
+0,Derek Does Stuff with a Friend,2016,N/A,N/A,N/A
+1,Food Fetish,2011,N/A,N/A,N/A
+2,pocket.watch Challenge Squad,2018,N/A,N/A,N/A
+3,Puertas al Mas Alla,2012,N/A,N/A,N/A
+4,"Stop, Breathe & Think Kids: Mindful Games",2017,N/A,N/A,N/A
+5,Lost in the Supermarket,2016,N/A,N/A,N/A
+6,Secrets of Your Mind,2010,N/A,N/A,N/A
+7,Out of Office with Brent Rose,2015,N/A,N/A,N/A
+8,The Bravest Knight Who Ever Lived,2014,N/A,N/A,N/A
+9,The Happy Days of Garry Marshall,2020,N/A,N/A,N/A
+10,ESL: Defining Moments,2017,N/A,N/A,N/A
+11,The Champion Within,2017,N/A,N/A,N/A
+12,Modd Couples,2016,N/A,N/A,N/A
+13,Red Nose Day,2015,N/A,N/A,N/A
+14,Ventaneando,2012,N/A,N/A,N/A
+15,pocket.watch CaptainSparklez mishmash,2018,N/A,N/A,N/A
+16,Back to Back Chef,2017,N/A,N/A,N/A
+17,A Woman's Job,2017,N/A,N/A,N/A
+18,Technique Critique,2016,N/A,N/A,N/A
+19,Going Si-ral,2016,N/A,N/A,N/A
+20,Dick Clark's Primetime New Year's Rockin' Eve,2013,N/A,N/A,N/A
+21,Just Josh,2011,N/A,N/A,N/A
+22,Newsy,2016,N/A,N/A,N/A
+23,ESL: Replay,2017,N/A,N/A,N/A
+24,WIRED's Autocomplete Interviews,2016,N/A,N/A,N/A
+25,Secret Talent Theatre,2016,N/A,N/A,N/A
+26,Bioterrorism: The Truth,2016,N/A,N/A,N/A
+27,Real Estate with Rosanna,2017,N/A,N/A,N/A
+28,For & Against,2012,N/A,N/A,N/A
+29,Trials of the Wild,2018,N/A,N/A,N/A
+30,UFC Presents,2013,N/A,N/A,N/A
+31,OUT: Face to Face,2010,N/A,N/A,N/A
+32,"Build Small, Live Anywhere",2015,N/A,N/A,N/A
+33,ESL Bootcamp: Immortals,2017,N/A,N/A,N/A
+34,ON STAGE,2017,N/A,N/A,N/A
+35,On This Day in Black History Month,2019,N/A,N/A,N/A
+36,The Big Vote,2018,N/A,N/A,N/A
+37,Fantasy Forecast,2016,N/A,N/A,N/A
+38,pocket.watch HobbyKidsTV mishmash,2018,N/A,N/A,N/A
+39,Gen H,2012,N/A,N/A,N/A
+40,WildWoods,2017,N/A,N/A,N/A
+41,Summertime,2016,N/A,N/A,N/A
+42,The Paley Center,2000,N/A,N/A,N/A
+43,Legendary Catch,2019,N/A,N/A,N/A
