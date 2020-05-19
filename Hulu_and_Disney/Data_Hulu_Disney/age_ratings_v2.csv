@@ -1,0 +1,15 @@
+,audience,frequency,normalize,streaming_service
+0,Adult,340,30.69,Netflix
+1,Children,403,36.37,Netflix
+2,Teen,365,32.94,Netflix
+3,Adult,162,23.82,Amazon
+4,Children,332,48.82,Amazon
+5,Teen,186,27.35,Amazon
+6,Adult,107,75.35,HBO
+7,Children,14,9.86,HBO
+8,Teen,21,14.79,HBO
+9,Adult,215,18.96,Hulu
+10,Children,456,40.21,Hulu
+11,Teen,463,40.83,Hulu
+12,Children,130,98.48,Disney+
+13,Teen,2,1.52,Disney+

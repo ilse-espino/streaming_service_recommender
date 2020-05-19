@@ -45,8 +45,8 @@ def get_recommender_df(survey_df, df_all_shows):
     user_genre_ratio["user"] = "User"
 
     user_recommender = user_genre_ratio.pivot_table(index="user",
-                                          columns="genre",
-                                          values="ratio")
+                                                    columns="genre",
+                                                    values="ratio")
     
     return user_recommender
 
@@ -56,24 +56,20 @@ def get_streaming_recommendation(genres_recommender, user_survey):
     recommendations = []
     
     user_recommender = genres_recommender.append(user_survey)
-        
-    distances = squareform(pdist(user_recommender, 'euclidean'))
-    
+           
     distances_df = pd.DataFrame((squareform(pdist(user_recommender, 'euclidean'))), 
                          index=user_recommender.index, columns=user_recommender.index)
     
-    similarities = list(distances_df['User'].sort_values()[1:].index)
+    similar_streamings = list(distances_df['User'].sort_values()[1:].index)
     distances = list(distances_df['User'].sort_values()[1:].values)
     
     for i in range(3):
-        recommendations.append(similarities[i])
-    
-    print("Your closest match is " + recommendations[0] + f" with {int(100-distances[0]*100)}% genre similarity.")
+        recommendations.append(similar_streamings[i])
+       
+    print("Your closest match is " + recommendations[0] + f" with {int(1/(1+distances[0])*100)}% genre similarity.")
     print("--------------------------")
     print("Your next matches are:")
-    print("2. " + recommendations[1] + f" with {int(100-distances[1]*100)}% genre similarity.")
-    print("3. " + recommendations[2] + f" with {int(100-distances[2]*100)}% genre similarity.")
+    print("2. " + recommendations[1] + f" with {int(1/(1+distances[1])*100)}% genre similarity.")
+    print("3. " + recommendations[2] + f" with {int(1/(1+distances[2])*100)}% genre similarity.")
    
-    # We need to add a return value beacuse if not the streaming_recommendations returns None at the end, we will return
-    # a blank string
     return ("")
