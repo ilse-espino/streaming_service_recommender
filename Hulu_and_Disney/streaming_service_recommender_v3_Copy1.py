@@ -36,9 +36,11 @@ def get_recommender_df(survey_df, df_all_shows):
     all_shows_lst = [show for show in df_all_shows["show"]]
     
     titles = []
+    
+    user_shows = [show for show in user_df.values[0] if show != "None"]
         
     # we will select just the last element using the tail pandas method
-    for show in user_df.values[0]:
+    for show in user_shows:
         # remove the year and description
         title_pattern = r"(.*)\s\(\d{4}\).*$"
         title = re.findall(title_pattern, show)
@@ -60,7 +62,7 @@ def get_recommender_df(survey_df, df_all_shows):
                                    .reset_index()
                                    .rename(columns={"index":"genre", 0:"frequency"}))
 
-    user_genre_ratio["ratio"] = round((user_genre_ratio["frequency"] / 30), 4)
+    user_genre_ratio["ratio"] = round((user_genre_ratio["frequency"] / len(user_shows)), 4)
 
     user_genre_ratio["user"] = "User"
 
@@ -69,7 +71,6 @@ def get_recommender_df(survey_df, df_all_shows):
                                                   values="ratio")
     
     return user_recommender, name
-
 
 def get_streaming_recommendation(genres_recommender, user_survey, name):
     
@@ -87,7 +88,7 @@ def get_streaming_recommendation(genres_recommender, user_survey, name):
     for i in range(5):
         recommendations.append(similar_streamings[i])
        
-    # we will show the percentage of similarity, whcih is 1 minus the distance multiplied by a 100
+    # we will show the percentage of similarity, which is 1 minus the distance multiplied by a 100
     print("\n")
     print(f"Matches for {name}")
     print("--------------------------")
